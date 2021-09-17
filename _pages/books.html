@@ -1,0 +1,35 @@
+---
+title: "Books"
+layout: default
+permalink: "/books.html"
+---
+
+<div class="container">
+<h4 class="font-weight-bold spanborder"><span>{{page.title}}</span></h4>
+    <div class="row gap-y listrecent listrecent listauthor">
+    {% for book in site.books %}
+        <div class="col-lg-6 mb-4">
+            <a href="{{site.baseurl}}/{{ book.url }}">
+            <div class="p-4 border rounded">
+            <div class="row">
+            <div class="col-md-6 mb-6 mb-md-0"><img alt="{{ book.name }}" src="{{site.baseurl}}/{{ book.image }}" class="rounded" height="100%" width="100%"></div>
+            <div class="col-md-6">
+            <h4 class="text-dark mb-0"> {{ book.title }} </h4>
+            {% for bookauthor in book.authors %}
+                {% assign siteauthor = site.authors | where:"key", bookauthor | first %}
+                    <small class="d-inline-block mt-1 mb-3 font-weight-normal">{{siteauthor.title}}</small>
+                    {% if forloop.last == false %} - {% endif %}
+            {% endfor %}
+            <div class="excerpt">{{ book.excerpt | markdownify }}</div>
+            <div class="icon-block mt-3 d-flex justify-content-between">  
+            <div>
+            </div>
+            </div>
+            </div>
+            </div>
+            </div>
+        </a>
+        </div>
+    {% endfor %}
+    </div>
+</div>

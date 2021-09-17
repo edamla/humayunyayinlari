@@ -1,0 +1,147 @@
+# Site
+name: 'Bookstore'
+language: "en"
+description: 'Bookstore is a free Jekyll theme for awesome people like you, Medium like.'
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+baseurl: '/bookstore-theme-jekyll'
+disqus: 'demowebsite'
+email: 'iletisim@bahadirdogru.com'
+mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+google_analytics: ''
+
+pagepreview:
+  enabled: true
+  prefix: 'https://cdn.e-damla.com.tr/damlayayinevi_ornek_sayfalar/'
+  postfix: '/index.html'
+
+include: ["_pages"]
+permalink: /:title/
+
+
+# BuyOut Ecommerce
+buyout:
+  enabled: true
+  #buyout websites:
+  damlayayinevi: true
+  hepsiburada: true
+  dnr: true
+  idefix: true
+  kitapyurdu: true
+  odatvkitap: false
+  bkmkitap: true
+  amazontr: true
+  dkitap: true
+
+# Plugins
+plugins: 
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-archives
+  - jekyll-figure
+  - jekyll-gist
+  
+# writer:
+#     sal:
+#       name:           Sal
+#       site:           https://www.wowthemes.net
+#       avatar:         /assets/images/avatar1.jpg
+#       bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
+#       email:          wowthemesnet@gmail.com
+#       twitter:        https://twitter.com/wowthemesnet
+
+ 
+# Defaults
+defaults:
+
+  # all posts
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      avatar: /assets/images/avatar.jpg
+      
+  # all pages
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+
+  # all books
+  - scope:
+      path: "_books"
+    values:
+      layout: book
+
+  # all authors
+  - scope:
+      path: "_authors"
+    values:
+      layout: author
+
+  # all persons
+  - scope:
+      path: "_persons"
+    values:
+      layout: person
+
+  # all illustrators
+  - scope:
+      path: "_illustrators"
+    values:
+      layout: illustrator
+
+  # all translators
+  - scope:
+      path: "_translators"
+    values:
+      layout: translator
+  # all api
+  - scope:
+      path: "_api"
+      
+# Syntax
+markdown: kramdown
+highlighter: rouge
+
+# excerpt
+excerpt_separator: <!--more-->
+
+# Paginate
+paginate: 10
+paginate_path: /page:num/
+
+# Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
+adsense: "disabled"
+adsense-data-ad-client: "ca-pub-3412143450191416"
+adsense-data-ad-slot: "1363087678"
+
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "enabled"
+
+# Sass
+sass:
+  sass_dir: _sass
+  style: compressed
+
+collections:
+  books:
+    output: true
+    permalink: /:collection/:title
+  authors:
+    output: true
+    permalink: /:collection/:title
+  illustrators:
+    output: true
+    permalink: /:collection/:title
+  translators:
+    output: true
+    permalink: /:collection/:title
+  persons:
+    output: true
+    permalink: /:collection/:title
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
