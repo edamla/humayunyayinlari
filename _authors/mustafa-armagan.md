@@ -10,30 +10,63 @@ youtube: https://youtube.com/u/bahadirdogru
 instagram: https://instagram.com/bahadirdogru
 site: https://www.bahadirdogru.com
 
-categories: [ cat1, cat2 ]
-tags: [ tag1, tag2]
+categories: #[ cat1, cat2 ]
+tags: [ araştırmacı, tarihçi]
 
 # For adding excerpt add <!--more--> and break the line
 ---
-You’ll find this post in your `_posts` directory.
+Urfalı bir anne-babanın çocuğu olarak Cizre’de dünyaya geldi (1961). Üniversiteye kadarki eğitim hayatını ilk yazı denemelerine başladığı Bursa’da tamamladı. 
 <!--more-->
-Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+İstanbul Üniversitesi Edebiyat Fakültesi Türk Dili ve Edebiyatı bölümünden 1985 yılında mezun olduktan sonra İÜ Siyasal Bilgiler Fakültesi’nde yüksek lisansa başladıysa da, yayıncılığın cazibesine kapılarak uzun yıllar İlim, Risale, İnsan, İz, Ağaç, Etkileşim ve Ketebe Yayınları’nda editör, yayın danışmanı ve yayın yönetmenliği görevlerinde bulundu. İzlenim ve Derin Tarih dergilerini yönetti. 
 
+Bugüne kadar 50 civarında kitaba imza atmış olan Armağan özellikle tarih yazıları ve kitaplarıyla geniş bir kitleye ulaşmayı başardı. Hâlen Akit TV’de Kayıtdışı Tarih programını yapmakta, konferanslarının yanı sıra Yeni Akit gazetesinde haftalık tarih sohbetleri kaleme almaktadır.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Türkiye Yazarlar Birliği tarafından 3 defa ödüle layık görüldü: Batı Düşüncesinde Dönüm Noktası (Fritjof Capra’dan, Tercüme dalında, 1989);Şehir, ey Şehir (Deneme dalında, 1997); Osmanlı: İnsanlığın Son Adası(Fikir dalında, 2003).
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+### Yaygın bir okur kitlesine ulaşan tüm kitapları şunlardır:
+- Alev ve Beton
+- Abdülhamid’in Kurtlarla Dansı-1 
+- Abdülhamid’in Kurtlarla Dansı-2 
+- Abdülhamid’in Kurtlarla Dansı-3
+- Avrupa’nın 50 Büyük Yalanı
+- Ayasofya Entrikaları 
+- Bursa Şehrengizi
+- Büyük Osmanlı Projesı
+- Cemil Meriç Konuşuyor
+- Cemil Meriç’in Dünyası – Seçme Metinler
+- Cemil Meriç / İrfana Açılan Gözler
+- Cumhuriyet Efsaneleri
+- Fatih’in Rüyası
+- Fetih ve Fatih
+- Gelenek ve Modernlik Arasında
+- Gençler İçin Abdülhamid’in Kurtlarla Dansı
+- Gerçek Tarihin Peşinde
+- Geri Gel Ey Osmanlı
+- İnsan Yüzlü Şehirler 
+- İslam ve Bilim Tartışmaları
+- Bilinmeyen Yönleriyle İsmet İnönü Gerçeği
+- Kazım Karabekir’in Gözüyle Yakın Tarihimiz-1 (İstiklal Savaşı’nın İç Yüzü)
+- Kazım Karabekir’in Gözüyle Yakın Tarihimiz-2 (Kızıl Pençe)
+- Kır Zincirlerini Osmanlı
+- Kızıl Elma Peşinde Bir Ömür: Fatih Sultan Mehmed 
+- Kuğunun Son Şarkısı: St. Petersburg’da Zamanlar ve Mekânlar
+- Küller Altında Yakın Tarih-1
+- Küller Altında Yakın Tarih-2   (Yakın Tarihin Kara Delikleri)
+- Küller Altında Yakın Tarih-3  (Yakın Tarihte Efsaneler ve Gerçekler)
+- Küller Altında Yakın Tarih-4 (Korku Duvarını Yıkmak)
+- Küller Altında Yakın Tarih-5 (Paşaların Hesaplaşması)
+- Küller Altında Yakın Tarih-6  (Tek Parti Devri)
+- Küresel Kuşatma Karşısında İnsan
+- Osmanlı Sultanları Albümü
+- Osmanlı Tarihinde Maskeler ve Yüzler
+- Osmanlı Tarihini Yeniden Yazmak
+- Osmanlı: İnsanlığın Son Adası
+- Osmanlı’yı İmparatorluk Yapan Şehir: İstanbul
+- Osmanlının Kayıp Atlası
+- Osmanlının Mahrem Tarihi
+- Satılık İmparatorluk
+- Şehir Asla Unutmaz
+- Şehir, Ey Şehir 
+- Türkçe Ezan ve Menderes
+- Davasına Adanmış Bir Ruh: Yavuz Sultan Selim Han
+- Ezan Şehidi Adnan Menderes

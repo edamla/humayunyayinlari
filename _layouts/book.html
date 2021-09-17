@@ -21,7 +21,7 @@ layout: default
 						<span class="catlist">
 						{% for bookauthor in book.authors %}
 						{% assign siteauthor = site.authors | where:"key", bookauthor | first %}
-						  <a class="sscroll text-danger" href="{{site.baseurl}}/{{ siteauthor.url }}">{{ siteauthor.title }}</a><span class="sep">, </span>
+						  <a class="sscroll text-danger" href="{{ siteauthor.url }}">{{ siteauthor.title }}</a><span class="sep">, </span>
 						{% endfor %}
 						</span>
 					</p>
@@ -57,7 +57,7 @@ layout: default
 							<a class="sscroll btn btn-light btn-sm font-weight-bold d-block float-left" target="_blank" href="{{ site.pagepreview.prefix }}{{ book.ean }}{{site.pagepreview.postfix}} "><i class="fas fa-book-reader fa-2x text-primary" aria-hidden="true"></i><span class="font-weight-bold btn-sm">Ön Seyir</span></a>  &nbsp;
 							{% endif %}
 							<a class="sscroll btn btn-light btn-sm font-weight-bold d-block float-left" target="_blank" href="{{ book.youtube }}"><i class="fab fa-youtube fa-2x text-danger" aria-hidden="true"></i><span class="font-weight-bold btn-sm">Tanıtım</span></a>  &nbsp;
-							<a class="sscroll btn btn-light btn-sm font-weight-bold d-block float-left" href="{{ site.baseurl}}/{{book.url}}#buyout"><i class="fas fa-shopping-cart fa-2x text-success" aria-hidden="true"></i><span class="font-weight-bold btn-sm">E-Satış</span></a>  &nbsp;
+							<a class="sscroll btn btn-light btn-sm font-weight-bold d-block float-left" href="{{book.url}}#buyout"><i class="fas fa-shopping-cart fa-2x text-success" aria-hidden="true"></i><span class="font-weight-bold btn-sm">E-Satış</span></a>  &nbsp;
 
 						</div>
 
@@ -245,7 +245,7 @@ layout: default
 	<!-- Books by Author(s) -->
 	<div class="row">
 		<div class="col-12">
-			<h4 class="font-weight-bold spanborder"><span>Books by Author(s)</span></h4>
+			<h4 class="font-weight-bold spanborder"><span>Yazarın diğer kitapları</span></h4>
 			<div class="row mb-3">
 				
 				{% assign bookarray = "" | split: ',' %}
@@ -261,10 +261,8 @@ layout: default
 
 				<!-- arayyi uniqleştirdik aynı kitap 2 kere çıkmasın diye. -->
 				{% assign uniqbookArray = bookarray | uniq %}
-				{% for book in uniqbookArray %}
-					<!-- sonra ekrana bastık -->
-					{% include main-loop-book.html %}
-				{%endfor %}
+				{% assign books = uniqbookArray %}
+				{% include product-slider.html %}
 
 			</div>
 		</div>

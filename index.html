@@ -14,8 +14,6 @@ description: "A great Jekyll theme developed by @bahadirdogru originly by Sal @w
 
 <!-- slider -->
 {% include slider.html %}
-{% include product-slider.html %}
-
 
 <!-- Begin post excerpts, let's highlight the first 4 posts on top -->
 <div class="row add-site-content-margin">
@@ -137,6 +135,8 @@ description: "A great Jekyll theme developed by @bahadirdogru originly by Sal @w
     
 </div>
 
+{% assign books = site.books %}
+{% include product-slider.html %}
    
 <!-- Sticky - add sticky tag to the post you want to highlight here - tags: [sticky] -->
 {% for post in site.posts %} 

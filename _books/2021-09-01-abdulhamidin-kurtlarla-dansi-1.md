@@ -1,29 +1,23 @@
 ---
 layout: book
-title:  "Abdulhamid'in Kurtlarla Dansı 1"
+title:  "Abdülhamid’in Kurtlarla Dansı 1"
 authors: ["mustafa-armagan"]
-illustrators: ["ismail-gurgen"]
+illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786057410733.jpg
-categories: [ Tarih, Osmanlı ]
-tags: [ abdulhamid, aksultan]
+categories: [ "Tarih", "Osmanlı" ]
+tags: [ "Osmanlı Tarihi", "Sultan Abdülhamid"]
 
 # Book attributes
 ean: 9786057410733
-languages: ["Türkçe"] 
-original-name: #"The dance of Abdulhamit with wolfs"
-original-language: #"English"
+languages: ["Türkçe"]
 page: 384
 size: "13,5x21cm"
 publish-number: 2
 cover: "Karton Kapak"
-printnumber: 44
-printdate: 01-09-2021
-previewpage: true
-youtube: "https://youtube.com/watch?v=23123123"
 
 # Buyout Ecommerce
-dnr: "https://www.dr.com.tr"
+dnr: "https://www.dnr.com.tr"
 kitapyurdu: "https://www.kitapyurdu.com"
 idefix: "https://www.idefix.com"
 hepsiburada: "https://www.hepsiburada.com"
@@ -37,6 +31,7 @@ damlayayinevi: "https://www.damlayayinevi.com.tr"
 ---
 Osmanlı tarihini yeniden yazmaya koyulan Mustafa Armağan’ın titiz ve akıcı kaleminden Son Sultan’ın Kurtlarla Dansı... Kitabı okuyunca dansın bugün de devam ettiğini fark edeceksiniz...
 <!--more-->
+
 Sultan 2. Abdülhamid 33 yıl boyunca etrafı “kurtlar”la çevrili bir ülkeyi sağ salim sahile çıkarmanın mücadelesini verdi. Hasta Adam’ın mirasının paylaşılması konusu 1850’lerde gündeme gelmişti.
 
 1878’de Rusya karşısındaki ağır yenilgimiz, emperyalizmin iştahını kabartmıştı ve Türkiye’de darbe üstüne darbe yapılıyordu. Önce Sultan Abdülaziz’e yapıldı darbe, sonra 5. Murad’a. Sanıldı ki, Osmanlı’nın kaderi pamuk ipliğine bağlı. Nitekim Sultan Abdülhamid tahta geçtiğinde İngiliz Dışişleri Bakanı, kendisini tehdit etmiş, “Ayağını denk alsın, ona da öncekilere yaptığımızı yaparız” demişti. Çöküş için gün sayılırken, bu 34 yaşındaki adam, 30 yılını adayacağı bir icraatın düğmesine basıyordu. Ülkeyi bir barış dönemine sokarken, kazanılan zamanda demiryolu ağından eğitim yatırımlarına kadar bir dolu projeye imza atıyordu.

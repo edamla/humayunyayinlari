@@ -1,6 +1,6 @@
 ---
-title: "Contact"
-permalink: "/contact.html"
+title: "İletişim"
+permalink: "/iletisim.html"
 ---
 
 <h5>Adress:</h5>

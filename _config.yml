@@ -1,14 +1,15 @@
 # Site
-name: 'Bookstore'
-language: "en"
-description: 'Bookstore is a free Jekyll theme for awesome people like you, Medium like.'
+name: 'Hümayun Yayınları'
+language: "tr"
+description: 'Tarihimiz Yeniden Milletin Oluncaya Kadar...'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: '/bookstore-theme-jekyll'
+baseurl:
 disqus: 'demowebsite'
-email: 'iletisim@bahadirdogru.com'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
-google_analytics: ''
+email: 'iletisim@humayunyayinlari.com'
+mailchimp-list: #'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+google_analytics: #''
+katalogurl: 'https://cdn.e-damla.com.tr/PUBLIC/Kataloglar/humayun-yayinlari/index.html'
 
 pagepreview:
   enabled: true
@@ -42,16 +43,6 @@ plugins:
   - jekyll-archives
   - jekyll-figure
   - jekyll-gist
-  
-# writer:
-#     sal:
-#       name:           Sal
-#       site:           https://www.wowthemes.net
-#       avatar:         /assets/images/avatar1.jpg
-#       bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-#       email:          wowthemesnet@gmail.com
-#       twitter:        https://twitter.com/wowthemesnet
-
  
 # Defaults
 defaults:
@@ -129,19 +120,19 @@ sass:
 collections:
   books:
     output: true
-    permalink: /:collection/:title
+    permalink: /kitaplar/:title
   authors:
     output: true
-    permalink: /:collection/:title
+    permalink: /yazarlar/:title
   illustrators:
     output: true
-    permalink: /:collection/:title
+    permalink: /tasarimcilar/:title
   translators:
     output: true
-    permalink: /:collection/:title
+    permalink: /cevirmenler/:title
   persons:
     output: true
-    permalink: /:collection/:title
+    permalink: /sahsiyetler/:title
 
 # Exclude metadata and development time dependencies (like Grunt plugins)
 exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]

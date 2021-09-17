@@ -1,7 +1,7 @@
 ---
-title: "Books"
+title: "Kitaplar"
 layout: default
-permalink: "/books.html"
+permalink: "/kitaplar.html"
 ---
 
 <div class="container">
@@ -9,7 +9,7 @@ permalink: "/books.html"
     <div class="row gap-y listrecent listrecent listauthor">
     {% for book in site.books %}
         <div class="col-lg-6 mb-4">
-            <a href="{{site.baseurl}}/{{ book.url }}">
+            <a href="{{ book.url }}">
             <div class="p-4 border rounded">
             <div class="row">
             <div class="col-md-6 mb-6 mb-md-0"><img alt="{{ book.name }}" src="{{site.baseurl}}/{{ book.image }}" class="rounded" height="100%" width="100%"></div>
