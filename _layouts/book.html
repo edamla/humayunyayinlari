@@ -34,7 +34,7 @@ layout: default
 						<p class="font-weight-bold">
 							<span class="catlist">
 							{% for cat in book.categories %}
-							  <a class="sscroll text-danger" href="{{site.baseurl}}/tags.html#{{ cat | downcase }}">{{ cat }}</a><span class="sep">, </span>
+							  <a class="sscroll text-danger" href="{{site.baseurl}}/kategoriler.html#{{ cat | downcase }}">{{ cat }}</a><span class="sep">, </span>
 							{% endfor %}
 							</span>
 						</p>
@@ -47,7 +47,7 @@ layout: default
 						<div class="mb-4">
 							<span class="taglist">
 							{% for tag in page.tags %}
-							<a class="sscroll btn btn-light btn-sm font-weight-bold" href="{{site.baseurl}}/tags.html#{{ tag | downcase }}">#{{ tag | downcase }}</a>
+							<a class="sscroll btn btn-light btn-sm font-weight-bold" href="{{site.baseurl}}/etiketler.html#{{ tag | downcase }}">#{{ tag | downcase }}</a>
 							{% endfor %}
 							</span>
 						</div>
@@ -96,7 +96,7 @@ layout: default
 
 							{% if book.authors %}
 							<li class="list-group-item">
-								<div class="md-v-line"></div><i class="fas fa-user-edit mr-1 fa-lg text-primary"></i><span class="mr-1">Yazar:</span>{% for bookauthor in book.authors %} {% assign siteauthor = site.authors | where:"key", bookauthor | first %} <a href="{{ site.baseurl }}/{{siteauthor.url}}">{{ siteauthor.title }}</a>{% if forloop.last == false %},{% endif %} {% endfor %}
+								<div class="md-v-line"></div><i class="fas fa-user-edit mr-1 fa-lg text-primary"></i><span class="mr-1">Yazar:</span>{% for bookauthor in book.authors %} {% assign siteauthor = site.authors | where:"key", bookauthor | first %} <a href="{{siteauthor.url}}">{{ siteauthor.title }}</a>{% if forloop.last == false %},{% endif %} {% endfor %}
 							</li>
 							{% endif %}
 

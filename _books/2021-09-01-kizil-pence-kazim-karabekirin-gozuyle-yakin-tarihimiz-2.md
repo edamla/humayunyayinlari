@@ -1,12 +1,13 @@
 ---
 layout: book
-title:  "KIZIL PENÇE KÂZIM KARABEKİR’İN GÖZÜYLE YAKIN TARİHİMİZ 2"
+title:  "Kızıl Pençe Kâzım Karabekir'in Gözüyle Yakın Tarihimiz 2"
 authors: ["mustafa-armagan"]
 illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786057410771.jpg
 categories: [ "Tarih", "Osmanlı" ]
 tags: [ "Yakın Tarih"]
+previewpage: false
 
 # Book attributes
 ean: 9786057410771

@@ -1,12 +1,13 @@
 ---
 layout: book
-title:  "KIZIL ELMA PEŞİNDE BİR ÖMÜR - Fatih Sultan Mehmed"
+title:  "Kızıl Elma Peşide Bir Ömür - Fatih Sultan Mehmed"
 authors: ["mustafa-armagan"]
 illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786057410719.jpg
 categories: [ "Tarih", "Osmanlı" ]
 tags: [ "Osmanlı Tarihi", "Fatih Sultan Mehmet"]
+previewpage: true
 
 # Book attributes
 ean: 9786057410719

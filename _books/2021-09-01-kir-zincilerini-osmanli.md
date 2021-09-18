@@ -7,6 +7,7 @@ translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786057410726.jpg
 categories: [ "Tarih", "Osmanlı" ]
 tags: [ "Osmanlı Tarihi"]
+previewpage: true
 
 # Book attributes
 ean: 9786057410726

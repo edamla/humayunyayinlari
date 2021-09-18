@@ -7,6 +7,7 @@ translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786057410788.jpg
 categories: [ "Tarih", "Osmanlı" ]
 tags: [ "Yakın Tarih"]
+previewpage: false
 
 # Book attributes
 ean: 9786057410788

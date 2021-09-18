@@ -1,6 +1,6 @@
 ---
 title: "Hakkımızda"
-layout: page-sidebar
+layout: page
 permalink: "/hakkimizda.html"
 image: "/assets/images/logo.jpg"
 comments: false

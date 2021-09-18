@@ -7,6 +7,7 @@ translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786057410702.jpg
 categories: [ "Tarih", "Osmanlı" ]
 tags: [ "Yakın Tarih", "Sultan Vahdettin"]
+previewpage: true
 
 # Book attributes
 ean: 9786057410702

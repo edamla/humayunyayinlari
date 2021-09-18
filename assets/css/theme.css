@@ -270,7 +270,7 @@ a.text-dark:hover {
 	color:#999;
 	border-radius:30px;
 	height:35px;
-	border:1px solid #eee;
+	border:3px solid #eee;
 }
 .mb-2rem {
 	margin-bottom:2rem;
@@ -840,3 +840,7 @@ div.a2a_full_footer {display:none;}
   .d-inline-grid {
 	  display: inline-grid !important;
   }
+
+.nav-link {
+    font-weight: bold;
+}

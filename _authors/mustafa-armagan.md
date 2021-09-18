@@ -2,13 +2,13 @@
 layout: author
 title: "Mustafa Armağan"
 key: "mustafa-armagan"
-image: assets/images/avatar.jpg
+image: assets/images/avatar/mustafa-armagan.jpg
 
-twitter: https://twitter.com/mustafaarmagan
-facebook: https://www.facebook.com/bahadirdogru
-youtube: https://youtube.com/u/bahadirdogru
-instagram: https://instagram.com/bahadirdogru
-site: https://www.bahadirdogru.com
+twitter: https://twitter.com/mustafarmagan
+facebook: https://www.facebook.com/korku.duvarini.yikmak
+youtube: https://youtube.com/c/MustafaArmağanResmi
+instagram: https://instagram.com/mustafarmaganresmi
+site: http://www.mustafaarmagan.com.tr
 
 categories: #[ cat1, cat2 ]
 tags: [ araştırmacı, tarihçi]
