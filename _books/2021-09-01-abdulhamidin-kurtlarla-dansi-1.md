@@ -18,15 +18,15 @@ publish-number: 2
 cover: "Karton Kapak"
 
 # Buyout Ecommerce
-dnr: "https://www.dnr.com.tr"
-kitapyurdu: "https://www.kitapyurdu.com"
-idefix: "https://www.idefix.com"
-hepsiburada: "https://www.hepsiburada.com"
-odatvkitap: "https://www.odatvkitap.com.tr"
-bkmkitap: "https://www.bkmkitap.com.tr"
-amazontr: "https://www.amazon.com.tr"
-dkitap: "https://www.dkitap.com.tr"
-damlayayinevi: "https://www.damlayayinevi.com.tr"
+dnr: "https://www.dr.com.tr/kitap/abdulhamidin-kurtlarla-dansi-1/mustafa-armagan/arastirma-tarih/tarih/osmanli-tarihi/urunno=0001938799001"
+kitapyurdu: #"https://www.kitapyurdu.com"
+idefix: #"https://www.idefix.com"
+hepsiburada: #"https://www.hepsiburada.com"
+odatvkitap: #"https://www.odatvkitap.com.tr"
+bkmkitap: #"https://www.bkmkitap.com.tr"
+amazontr: #"https://www.amazon.com.tr"
+dkitap: #"https://www.dkitap.com.tr"
+damlayayinevi: "https://www.damlayayinevi.com.tr/abdulhamid-in-kurtlarla-dansi-1"
 
 # For adding excerpt add <!--more--> and break the line
 ---

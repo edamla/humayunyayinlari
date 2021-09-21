@@ -10,32 +10,32 @@
         "img": "assets/images/slides/2.jpg",
         "mobile-img": "assets/images/slides/2m.jpg",
         "alt": "slide2",
-        "href": "https://www.google.com",
-        "target": "_blank"
+        "href": "/kitaplar/abdulhamidin-kurtlarla-dansi-1",
+        "target": ""
         }, {
         "img": "assets/images/slides/3.jpg",
         "mobile-img": "assets/images/slides/3m.jpg",
         "alt": "slide3",
-        "href": "https://www.google.com",
-        "target": "_blank"
+        "href": "/kitaplar/kir-zincilerini-osmanli",
+        "target": ""
         },{
         "img": "assets/images/slides/4.jpg",
         "mobile-img": "assets/images/slides/4m.jpg",
         "alt": "slide4",
-        "href": "https://www.google.com",
-        "target": "_blank"
+        "href": "/kitaplar/kizil-elma-pesinde-bir-omur-fatih-sultan-mehmed",
+        "target": ""
         },{
         "img": "assets/images/slides/5.jpg",
         "mobile-img": "assets/images/slides/5m.jpg",
         "alt": "slide5",
-        "href": "https://www.google.com",
-        "target": "_blank"
+        "href": "/kitaplar/kuller-altinda-yakin-tarih-1",
+        "target": ""
         },{
         "img": "assets/images/slides/6.jpg",
         "mobile-img": "assets/images/slides/6m.jpg",
         "alt": "slide6",
-        "href": "https://www.google.com",
-        "target": "_blank"
+        "href": "/kitaplar/ezan-sehidi-menderes",
+        "target": ""
         }
     ]
 

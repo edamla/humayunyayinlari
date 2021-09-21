@@ -18,15 +18,15 @@ publish-number: 3
 cover: "Karton Kapak"
 
 # Buyout Ecommerce
-dnr: "https://www.dnr.com.tr"
-kitapyurdu: "https://www.kitapyurdu.com"
-idefix: "https://www.idefix.com"
-hepsiburada: "https://www.hepsiburada.com"
-odatvkitap: "https://www.odatvkitap.com.tr"
-bkmkitap: "https://www.bkmkitap.com.tr"
-amazontr: "https://www.amazon.com.tr"
-dkitap: "https://www.dkitap.com.tr"
-damlayayinevi: "https://www.damlayayinevi.com.tr"
+dnr: "https://www.dr.com.tr/kitap/kir-zincirlerini-osmanli/mustafa-armagan/arastirma-tarih/tarih/osmanli-tarihi/urunno=0001938797001"
+kitapyurdu: #"https://www.kitapyurdu.com"
+idefix: #"https://www.idefix.com"
+hepsiburada: #"https://www.hepsiburada.com"
+odatvkitap: #"https://www.odatvkitap.com.tr"
+bkmkitap: #"https://www.bkmkitap.com.tr"
+amazontr: #"https://www.amazon.com.tr"
+dkitap: #"https://www.dkitap.com.tr"
+damlayayinevi: "https://www.damlayayinevi.com.tr/kir-zincirlerini-osmanli"
 
 # For adding excerpt add <!--more--> and break the line
 ---

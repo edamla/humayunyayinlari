@@ -1,12 +1,12 @@
 ---
 layout: book
-title:  "KÜLLER ALTINDA YAKIN TARİH 1"
+title:  "Küller Altında Yakın Tarih 1"
 authors: ["mustafa-armagan"]
 illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786057410702.jpg
 categories: [ "Tarih", "Osmanlı" ]
-tags: [ "Yakın Tarih", "Sultan Vahdettin"]
+tags: [ "Yakın Tarih", "Sultan Vahdettin", "Mustafa Kemal"]
 previewpage: true
 
 # Book attributes
@@ -18,15 +18,15 @@ publish-number: 5
 cover: "Karton Kapak"
 
 # Buyout Ecommerce
-dnr: "https://www.dnr.com.tr"
-kitapyurdu: "https://www.kitapyurdu.com"
-idefix: "https://www.idefix.com"
-hepsiburada: "https://www.hepsiburada.com"
-odatvkitap: "https://www.odatvkitap.com.tr"
-bkmkitap: "https://www.bkmkitap.com.tr"
-amazontr: "https://www.amazon.com.tr"
-dkitap: "https://www.dkitap.com.tr"
-damlayayinevi: "https://www.damlayayinevi.com.tr"
+dnr: "https://www.dr.com.tr/kitap/kuller-altinda-yakin-tarih-1-vahdettinden-mustafa-kemale-unutulan-gercekler/mustafa-armagan/arastirma-tarih/tarih/ataturk/urunno=0001938796001"
+kitapyurdu: #"https://www.kitapyurdu.com"
+idefix: #"https://www.idefix.com"
+hepsiburada: #"https://www.hepsiburada.com"
+odatvkitap: #"https://www.odatvkitap.com.tr"
+bkmkitap: #"https://www.bkmkitap.com.tr"
+amazontr: #"https://www.amazon.com.tr"
+dkitap: #"https://www.dkitap.com.tr"
+damlayayinevi: "https://www.damlayayinevi.com.tr/kuller-altinda-yakin-tarih-1"
 
 # For adding excerpt add <!--more--> and break the line
 ---

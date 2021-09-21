@@ -36,7 +36,7 @@ description: "A great Jekyll theme developed by @bahadirdogru originly by Sal @w
         <small class="d-block text-muted">
             Kategori: <span class="catlist">
                 {% for category in latest_post.categories %}
-                <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
+                <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/kategoriler.html#{{ category | downcase | slugify  }}">{{ category }}</a><span class="sep">, </span>
                 {% endfor %}
                 </span>                   
         </small>
@@ -67,7 +67,7 @@ description: "A great Jekyll theme developed by @bahadirdogru originly by Sal @w
                     <small class="d-block text-muted">
                         Kategori: <span class="catlist">
                         {% for category in second_post.categories %}
-                        <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
+                        <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/kategoriler.html#{{ category | downcase | slugify }}">{{ category }}</a><span class="sep">, </span>
                         {% endfor %}
                         </span>                   
                     </small>
@@ -94,7 +94,7 @@ description: "A great Jekyll theme developed by @bahadirdogru originly by Sal @w
                     <small class="d-block text-muted">
                         Kategori: <span class="catlist">
                         {% for category in third_post.categories %}
-                        <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
+                        <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/kategoriler.html#{{ category | downcase | slugify }}">{{ category }}</a><span class="sep">, </span>
                         {% endfor %}
                         </span>                   
                     </small>
@@ -121,7 +121,7 @@ description: "A great Jekyll theme developed by @bahadirdogru originly by Sal @w
                     <small class="d-block text-muted">
                         Kategori: <span class="catlist">
                         {% for category in fourth_post.categories %}
-                        <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
+                        <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/kategoriler.html#{{ category | downcase | slugify }}">{{ category }}</a><span class="sep">, </span>
                         {% endfor %}
                         </span>                   
                     </small>

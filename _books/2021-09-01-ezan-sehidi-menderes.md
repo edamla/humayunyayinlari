@@ -1,6 +1,6 @@
 ---
 layout: book
-title:  "EZAN ŞEHİDİ MENDERES"
+title:  "Ezan Şehidi Menderes"
 authors: ["mustafa-armagan"]
 illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]
@@ -18,15 +18,15 @@ publish-number: 1
 cover: "Karton Kapak"
 
 # Buyout Ecommerce
-dnr: "https://www.dnr.com.tr"
-kitapyurdu: "https://www.kitapyurdu.com"
-idefix: "https://www.idefix.com"
-hepsiburada: "https://www.hepsiburada.com"
-odatvkitap: "https://www.odatvkitap.com.tr"
-bkmkitap: "https://www.bkmkitap.com.tr"
-amazontr: "https://www.amazon.com.tr"
-dkitap: "https://www.dkitap.com.tr"
-damlayayinevi: "https://www.damlayayinevi.com.tr"
+dnr: "https://www.dr.com.tr/kitap/ezan-sehidi-menderes/mustafa-armagan/arastirma-tarih/tarih/dunya-tarihi/urunno=0001938798001"
+kitapyurdu: #"https://www.kitapyurdu.com"
+idefix: #"https://www.idefix.com"
+hepsiburada: #"https://www.hepsiburada.com"
+odatvkitap: #"https://www.odatvkitap.com.tr"
+bkmkitap: #"https://www.bkmkitap.com.tr"
+amazontr: #"https://www.amazon.com.tr"
+dkitap: #"https://www.dkitap.com.tr"
+damlayayinevi: "https://www.damlayayinevi.com.tr/ezan-sehidi-adnan-menderes"
 
 # For adding excerpt add <!--more--> and break the line
 ---

@@ -5,9 +5,9 @@ layout: default
 <div class="container">
 <div class="jumbotron jumbotron-fluid mb-3 pl-0 pt-0 pb-0 bg-white position-relative">
 		<div class="h-100 tofront">
-			<div class="row {% if page.image %} justify-content-between {% else %} justify-content-center {% endif %}">
-				<div class="{% if page.image %} col-md-8 {% else %} col-md-12 {% endif %} pr-0 pr-md-4 pt-4 pb-4 text-align-center">
-					<p class="text-uppercase font-weight-bold">
+			<div class="row justify-content-center">
+				<div class="col-md-12 pr-0 pr-md-4 pt-4 pb-4 text-align-center">
+					<p class="font-weight-bold">
                         <span class="catlist">
 						{% for category in page.categories %}
                           <a class="sscroll text-danger" href="{{site.baseurl}}/kategoriler.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
@@ -27,8 +27,10 @@ layout: default
 					</div>
 				</div>
                 {% if page.image %}
-				<div class="col-md-4 pr-2 align-self-center">
-					<img class="rounded" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title }}">
+				<div class="row justify-content-center">
+					<div class="col-md-8 pr-2 align-self-center">
+						<img class="rounded" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title }}">
+					</div>
 				</div>
                 {% endif %}
 			</div>

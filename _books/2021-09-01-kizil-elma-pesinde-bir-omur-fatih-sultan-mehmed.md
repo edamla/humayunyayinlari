@@ -18,15 +18,15 @@ publish-number: 4
 cover: "Karton Kapak"
 
 # Buyout Ecommerce
-dnr: "https://www.dnr.com.tr"
-kitapyurdu: "https://www.kitapyurdu.com"
-idefix: "https://www.idefix.com"
-hepsiburada: "https://www.hepsiburada.com"
-odatvkitap: "https://www.odatvkitap.com.tr"
-bkmkitap: "https://www.bkmkitap.com.tr"
-amazontr: "https://www.amazon.com.tr"
-dkitap: "https://www.dkitap.com.tr"
-damlayayinevi: "https://www.damlayayinevi.com.tr"
+dnr: "https://www.dr.com.tr/kitap/fatih-sultan-mehmed-kizil-elma-pesinde-bir-omur/mustafa-armagan/arastirma-tarih/tarih/osmanli-tarihi/urunno=0001938800001"
+kitapyurdu: #"https://www.kitapyurdu.com"
+idefix: #"https://www.idefix.com"
+hepsiburada: #"https://www.hepsiburada.com"
+odatvkitap: #"https://www.odatvkitap.com.tr"
+bkmkitap: #"https://www.bkmkitap.com.tr"
+amazontr: #"https://www.amazon.com.tr"
+dkitap: #"https://www.dkitap.com.tr"
+damlayayinevi: "https://www.damlayayinevi.com.tr/kizil-elma-pesinde-bir-omur"
 
 # For adding excerpt add <!--more--> and break the line
 ---

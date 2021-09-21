@@ -4,12 +4,14 @@ permalink: "/iletisim.html"
 comments: false
 ---
 
-<h5>Adress:</h5>
-<div>Bla Bla sokak</div>
-<h5>Phone:</h5>
-<div>12312312321</div>
-<h5>e-mail:</h5>
-<div>{{site.email}}</div>
+<h5>Adres:</h5>
+<div>Hümayun Yayınları,
+Prof. Kazım İsmail Gürkan Cad. No:8 Kat: 2
+Cagaloglu - Fatih, 34110 İstanbul</div>
+<h5>Telefon:</h5>
+<div><a href="tel:+902125142828">+90 212 514 28 28</a></div>
+<h5>e-posta:</h5>
+<div><a href="mailto:{{site.email}}">{{site.email}}</a></div>
 <hr>
 
 <div class="mapouter">
@@ -22,15 +24,15 @@ comments: false
 
 <hr>
 <form action="https://formspree.io/{{site.email}}" method="POST">    
-<p class="mb-4">Please send your message to {{site.name}}. We will reply as soon as possible!</p>
+<p class="mb-4">Lüften mesajlarınızı bize yazın. En kısa sürede size geri dönüş sağlayacağız!</p>
 <div class="form-group row">
 <div class="col-md-6">
-<input class="form-control" type="text" name="name" placeholder="Name*" required>
+<input class="form-control" type="text" name="name" placeholder="İsim*" required>
 </div>
 <div class="col-md-6">
-<input class="form-control" type="email" name="_replyto" placeholder="E-mail Address*" required>
+<input class="form-control" type="email" name="_replyto" placeholder="E-posta*" required>
 </div>
 </div>
-<textarea rows="8" class="form-control mb-3" name="message" placeholder="Message*" required></textarea>    
-<input class="btn btn-success" type="submit" value="Send">
+<textarea rows="8" class="form-control mb-3" name="message" placeholder="Mesaj*" required></textarea>    
+<input class="btn btn-success" type="submit" value="Gönder">
 </form>

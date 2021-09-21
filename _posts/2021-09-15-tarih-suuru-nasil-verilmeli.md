@@ -27,3 +27,5 @@ Yazdığı kitaplarla ve yaptığı televizyon programlarıyla milletimizin tari
 "Tarihimiz yeniden milletin oluncaya kadar sürecek mücadelemiz" sloganıyla kitap dünyasına ve okuyucu karşısına çıkan Hümayun Yayınları, Mustafa Armağan'ın tüm kitaplarını ve yeni hazırladığı kıymetli eserlerini neşretmeye başlıyor. Özellikle "Ezan Şehidi Menderes" adlı kitabının büyük ilgi görmesi bekleniyor.
 
 Hümayun Yayınları "gerçek tarihe açılan bir kapı" olmak amacıyla kuruldu. Resmi tarihin kıskacında sahte ve abartılı hikayelerle yetişen nesillere, doğru ve gerçek tarihin anlatılmasını milli bir görev kabul ederek yayın hayatına başlayan Hümayun yayınlarına başarılar diliyorum.
+
+Nurettin Taşkesen

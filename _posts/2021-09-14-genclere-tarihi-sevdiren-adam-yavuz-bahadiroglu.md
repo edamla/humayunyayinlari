@@ -52,4 +52,4 @@ Oyun: "Piyesler"
 
 Çocuk Kitabı: "Çocuk Masalları", "Canavar Robot", "Dev Hayvanlar", "Karıncalar Savaşı", "Çocuğun Ramazanı", "Baskın", "Kaybolan Elçiler", "Ucuz Hikayeler", "Varvara", "Bizim Can"
 
-[Kaynak: Anadolu Ajansı, Ahmet Esad Şani | 22.01.2021](https://www.aa.com.tr/tr/kultur-sanat/genclere-tarihi-sevdiren-adam-yavuz-bahadiroglu/2119217)
+Kaynak: Ahmet Esad Şani, 22.01.2021 [Anadolu Ajansı](https://www.aa.com.tr/tr/kultur-sanat/genclere-tarihi-sevdiren-adam-yavuz-bahadiroglu/2119217)
