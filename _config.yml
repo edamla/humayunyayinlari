@@ -3,13 +3,19 @@ name: 'Hümayun Yayınları'
 language: "tr"
 description: 'Tarihimiz Yeniden Milletin Oluncaya Kadar...'
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+favicon: 'assets/images/favicon/favicon.ico'
 baseurl: ''
+
+# Social Settings
 disqus: 'demowebsite'
 email: 'iletisim@humayunyayinlari.com'
 mailchimp-list: #'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 google_analytics: #''
 katalogurl: 'https://cdn.e-damla.com.tr/PUBLIC/Kataloglar/humayun-yayinlari/index.html'
+twitter: 'https://twitter.com/humayunyayinlari'
+facebook: 'https://www.facebook.com/humayunyayinlari'
+instagram: 'https://instagram.com/humayunyayinlari'
+youtube: 'https://www.youtube.com/humayunyayinlari'
 
 pagepreview:
   enabled: true
@@ -103,6 +109,7 @@ excerpt_separator: <!--more-->
 # Paginate
 paginate: 10
 paginate_path: /page:num/
+paginate_path: "/blog/page:num/"
 
 # Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
 adsense: "disabled"

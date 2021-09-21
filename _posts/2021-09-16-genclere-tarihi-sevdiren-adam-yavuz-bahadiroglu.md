@@ -5,6 +5,7 @@ authors: []
 categories: [ Haberler ]
 image: assets/images/posts/genclere-tarihi-sevdiren-adam-yavuz-bahadiroglu.jpg
 tags: [Yavuz Bahadıroğlu]
+featured: true
 ---
 Gençlere tarihi sevdirmeye çalıştığı kitaplarında Yavuz Bahadıroğlu ismini kullanan Birinci, gemi kaptanı bir babanın oğlu olarak 1945'te Rize'nin Pazar Hisarlı köyünde dünyaya geldi.
 

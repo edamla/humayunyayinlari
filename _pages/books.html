@@ -12,7 +12,7 @@ permalink: "/kitaplar.html"
             <a href="{{ book.url }}">
             <div class="p-4 border rounded">
             <div class="row">
-            <div class="col-md-6 mb-6 mb-md-0"><img alt="{{ book.name }}" src="{{site.baseurl}}/{{ book.image }}" class="rounded" height="100%" width="100%"></div>
+            <div class="col-md-6 mb-6 mb-md-0"><img alt="{{ book.name }}" src="{{site.baseurl}}/{{ book.image }}" class="rounded" height="auto" width="100%"></div>
             <div class="col-md-6">
             <h4 class="text-dark mb-0"> {{ book.title }} </h4>
             {% for bookauthor in book.authors %}
@@ -20,7 +20,7 @@ permalink: "/kitaplar.html"
                     <small class="d-inline-block mt-1 mb-3 font-weight-normal">{{siteauthor.title}}</small>
                     {% if forloop.last == false %} - {% endif %}
             {% endfor %}
-            <div class="excerpt">{{ book.excerpt | markdownify }}</div>
+            <div class="excerpt">{{ book.excerpt | markdownify | truncate:350 }}</div>
             <div class="icon-block mt-3 d-flex justify-content-between">  
             <div>
             </div>

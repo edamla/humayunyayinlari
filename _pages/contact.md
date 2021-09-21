@@ -1,6 +1,7 @@
 ---
 title: "İletişim"
 permalink: "/iletisim.html"
+comments: false
 ---
 
 <h5>Adress:</h5>

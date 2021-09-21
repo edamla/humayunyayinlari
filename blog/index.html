@@ -1,9 +1,9 @@
 ---
-title: "Haberler"
+title: "Yazılar"
 layout: default
 pagination:
     enabled: true
-permalink: "/haberler.html"
+permalink: "/blog"
 ---
 
 <div class="container">
@@ -13,8 +13,7 @@ permalink: "/haberler.html"
   <div class="col-md-8 main-loop">
       
       <h4 class="font-weight-bold spanborder"><span>{{page.title}}</span></h4>
-      
-      {% assign paginator.posts = site.posts %}
+
       {% for post in paginator.posts %}
       
           {% include main-loop-card.html %}

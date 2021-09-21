@@ -4,7 +4,9 @@ title:  "Tarih Şuuru Nasıl Verilir?"
 authors: ["nurettin-taskesen"]
 categories: [ Yazılar ]
 image: assets/images/posts/tarih-suuru-nasil-verilmeli.jpg
-tags: [tarih, şuur, sticky]
+tags: [tarih, şuur]
+sticky: true
+featured: true
 # For adding excerpt add <!--more--> and break the line
 ---
 **"Tarihimiz yeniden milletin oluncaya kadar sürecek mücadelemiz"**

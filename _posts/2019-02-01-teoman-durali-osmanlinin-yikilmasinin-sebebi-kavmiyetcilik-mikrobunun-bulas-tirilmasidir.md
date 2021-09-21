@@ -4,10 +4,12 @@ title:  "Teoman Duralı: Osmanlı'nın Yıkılmasının Sebebi Kavmiyetçilik Mi
 authors: ["mustafa-armagan"]
 categories: [ Söyleşi ]
 image: assets/images/posts/teoman-durali-osmanlinin-yikilmasinin-sebebi-kavmiyetcilik-mikrobunun-bulas-tirilmasidir.jpg
-tags: ["teoman Duralı"]
+tags: ["teoman Duralı",]
+featured: true
 ---
 KONUŞAN: MUSTAFA ARMAĞAN, MEHMET ÖNDER
 
+<br>
 **Mehmet Önder:** Kavmiyetçiliği bir zehir olarak tanımlıyorsunuz. Türkçülük davası güdenlerin pek çoğu Türk değildi notunu da düşüyorsunuz. Eğer böyle bir tespitte bulunursak bu işin altında çok daha farklı meseleler var demektir, değil mi?
 
 **Teoman Duralı:** Ya siyasî bir hinlik vardır. Burada ben kötü bir niyet ararım. Başka olaylarda da bir kompleks, bir hastalık vardır. O millete yaranmak için ben 10 bin yıllık Türküm derler.
@@ -28,4 +30,4 @@ Yunanlarda Yunan kavramı yoktur. Onlar kendilerini Rum kabul ederler. Ben Kapal
 
 **Mustafa Armağan:** Osmanlı’nın diğer milletlere de bakışı hep din merkezli olmuştur. Cığalazâde Sinan Paşa mesela. Cağaloğlu semtine ismini veren bu zat İtalyan bir denizcidir. Daha sonra kendisi Osmanlı’ya gelmiş ve Kaptan-ı Deryalığa kadar yükselmiştir. Osmanlı için bu ırkçılık meselesi hiçbir zaman önemli olmamıştır. Her milletin kendi millî, dinî hususiyetlerini koruması için devlet bir hakem rolü görür. Mesela İzmir’de bir zengin Yahudi ile fakir Yahudi arasında alacak verecek meselesi olduğunda oradaki hahambaşına gitmeleri gerekir normalde. Fakat hahambaşı zengin Yahudi’yi kollayacağı için fakir Yahudi hahamhane yerine Osmanlı kadısına gitmeyi tercih ederdi. Kadının önüne çıktıkları zaman da kadı onlara soruyordu: İslam hukukuna göre mi, Yahudi hukukuna göre mi yargılanmak istersiniz? Ne kadar muhteşem bir tablo…
 
-Kaynak: https://www.derintarih.com/soylesi/teoman-durali-osmanlinin-yikilmasinin-sebebi-kavmiyetcilik-mikrobunun-bulas-tirilmasidir/
+Kaynak: [Derintarih](https://www.derintarih.com/soylesi/teoman-durali-osmanlinin-yikilmasinin-sebebi-kavmiyetcilik-mikrobunun-bulas-tirilmasidir/)

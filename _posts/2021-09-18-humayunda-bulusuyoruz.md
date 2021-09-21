@@ -2,7 +2,9 @@
 layout: post
 title:  "Hümayun’da buluşuyoruz"
 categories: [ Haberler ]
+authors: ["mustafa-armagan"]
 image: assets/images/posts/humayunda-bulusuyoruz.jpg
+featured: true
 ---
 Tarihle öldürebilirsiniz bir halkı, tarihle diriltebilirsiniz. Tarihi anlatma şekliniz, nasıl bir vatandaş istediğinizi, halka nasıl bir kimlik aşılamak için çırpındığınızı gösterir.
 
