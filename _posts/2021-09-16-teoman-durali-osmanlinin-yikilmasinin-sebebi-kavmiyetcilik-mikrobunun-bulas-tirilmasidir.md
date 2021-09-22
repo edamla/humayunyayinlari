@@ -6,6 +6,7 @@ categories: [ Söyleşi ]
 image: assets/images/posts/teoman-durali-osmanlinin-yikilmasinin-sebebi-kavmiyetcilik-mikrobunun-bulas-tirilmasidir.jpg
 tags: ["teoman Duralı",]
 featured: true
+# For adding excerpt add <!--more--> and break the line
 ---
 KONUŞAN: MUSTAFA ARMAĞAN, MEHMET ÖNDER
 

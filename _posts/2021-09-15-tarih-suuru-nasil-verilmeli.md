@@ -33,12 +33,12 @@ Nurettin Taşkesen.
 Nurettin Taşkesen Kitapları:
 
 <div class="row">
-    <div class="col-md-3"><a href="https://www.damlayayinevi.com.tr/celaleddin-harizmsah-cengiz-han-in-korkulu-ruyasi" target="_blank"><img src="/assets/images/posts/celaleddin-harizmsah.jpg" alt="" class="img-fluid"></a></div>
-    <div class="col-md-3"><a href="https://www.damlayayinevi.com.tr/endulus-fatihleri-tarik-bin-ziyad" target="_blank"><img src="/assets/images/posts/endulus-fatihleri.jpg" alt="" class="img-fluid"></a></div>
-    <div class="col-md-3"><a href="https://www.damlayayinevi.com.tr/esaret-1916" target="_blank"><img src="/assets/images/posts/esaret.jpg" alt="" class="img-fluid"></a></div>
-    <div class="col-md-3"><a href="https://www.damlayayinevi.com.tr/osmanli-cografyasinda-istihbarat-teskilatlari" target="_blank"><img src="/assets/images/posts/istihbarat-teskilatlari.jpg" alt="" class="img-fluid"></a></div>
-    <div class="col-md-3"><a href="https://www.damlayayinevi.com.tr/yuzyillik-hasret-kudus-1917" target="_blank"><img src="/assets/images/posts/kudus-1917.jpg" alt="" class="img-fluid"></a></div>
-    <div class="col-md-3"><a href="https://www.damlayayinevi.com.tr/kurtuba-nin-altin-cagi" target="_blank"><img src="/assets/images/posts/kurtubanin-altin-cagi.jpg" alt="" class="img-fluid"></a></div>
-    <div class="col-md-3"><a href="https://www.damlayayinevi.com.tr/nekbe-1948" target="_blank"><img src="/assets/images/posts/nekbe.jpg" alt="" class="img-fluid"></a></div>
-    <div class="col-md-3"><a href="https://www.damlayayinevi.com.tr/ozgur-kudus-un-sifresi-selahaddin-eyyubi" target="_blank"><img src="/assets/images/posts/ozgur-kudusun-sifresi.jpg" alt="" class="img-fluid"></a></div>
+    <div class="col-6 col-md-3"><a href="https://www.damlayayinevi.com.tr/celaleddin-harizmsah-cengiz-han-in-korkulu-ruyasi" target="_blank"><img src="/assets/images/posts/celaleddin-harizmsah.jpg" alt="" class="img-fluid"></a></div>
+    <div class="col-6 col-md-3"><a href="https://www.damlayayinevi.com.tr/endulus-fatihleri-tarik-bin-ziyad" target="_blank"><img src="/assets/images/posts/endulus-fatihleri.jpg" alt="" class="img-fluid"></a></div>
+    <div class="col-6 col-md-3"><a href="https://www.damlayayinevi.com.tr/esaret-1916" target="_blank"><img src="/assets/images/posts/esaret.jpg" alt="" class="img-fluid"></a></div>
+    <div class="col-6 col-md-3"><a href="https://www.damlayayinevi.com.tr/osmanli-cografyasinda-istihbarat-teskilatlari" target="_blank"><img src="/assets/images/posts/istihbarat-teskilatlari.jpg" alt="" class="img-fluid"></a></div>
+    <div class="col-6 col-md-3"><a href="https://www.damlayayinevi.com.tr/yuzyillik-hasret-kudus-1917" target="_blank"><img src="/assets/images/posts/kudus-1917.jpg" alt="" class="img-fluid"></a></div>
+    <div class="col-6 col-md-3"><a href="https://www.damlayayinevi.com.tr/kurtuba-nin-altin-cagi" target="_blank"><img src="/assets/images/posts/kurtubanin-altin-cagi.jpg" alt="" class="img-fluid"></a></div>
+    <div class="col-6 col-md-3"><a href="https://www.damlayayinevi.com.tr/nekbe-1948" target="_blank"><img src="/assets/images/posts/nekbe.jpg" alt="" class="img-fluid"></a></div>
+    <div class="col-6 col-md-3"><a href="https://www.damlayayinevi.com.tr/ozgur-kudus-un-sifresi-selahaddin-eyyubi" target="_blank"><img src="/assets/images/posts/ozgur-kudusun-sifresi.jpg" alt="" class="img-fluid"></a></div>
 </div>
