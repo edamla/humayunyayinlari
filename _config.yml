@@ -95,9 +95,6 @@ defaults:
       path: "_translators"
     values:
       layout: translator
-  # all api
-  - scope:
-      path: "_api"
       
 # Syntax
 markdown: kramdown

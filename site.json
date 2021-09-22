@@ -1,5 +1,0 @@
----
-permalink: /api/site
----
-
-{{ site | jsonify }}
