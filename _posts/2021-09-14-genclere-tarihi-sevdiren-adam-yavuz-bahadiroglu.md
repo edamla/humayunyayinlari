@@ -8,7 +8,7 @@ tags: [Yavuz Bahadıroğlu]
 featured: true
 # For adding excerpt add <!--more--> and break the line
 ---
-Gençlere tarihi sevdirmeye çalıştığı kitaplarında Yavuz Bahadıroğlu ismini kullanan Birinci, gemi kaptanı bir babanın oğlu olarak 1945'te Rize'nin Pazar Hisarlı köyünde dünyaya geldi.
+Gençlere tarihi sevdirmeye çalıştığı kitaplarında Yavuz Bahadıroğlu ismini kullanan Niyazi Birinci, gemi kaptanı bir babanın oğlu olarak 1945'te Rize'nin Pazar Hisarlı köyünde dünyaya geldi.
 
 Birinci, verdiği bir röportajda bu ilk deneyimini, "Gazeteciliğe ortaokul sıralarında, okul müdürünün emriyle çıkarmaya başladığım duvar gazetesiyle başladım. İlk köşe yazımı da o gazete için yazdım. Ne yazık ki, ilk yazımı yazdığım ilk gazetemin ömrü yalnızca on beş dakika kadar oldu. Yazdığım ilk köşe yazısında, içindeki çelişkiler sebebiyle tarih kitabını eleştirmem okul müdürünün hoşuna gitmemiş, bu yüzden gazete duvardan indirilmişti. Bu yüzden ceza almadım, ama sıkı bir tembihten geçirildim. Müdür Bey'e göre, önce okullarım bitmeli, büyümeliydim. Ancak bir yerlere geldikten sonra böyle eleştiriler yapabilirdim.Okullar arka arkaya bitti. Büyüdüm, gazetecilikten emekli oldum. Yüz civarında da kitap yazdım. Ama hala bildiklerimi, düşündüklerimi söylemeye bırakmıyorlar, "Başın derde girer" diyorlar." ifadeleriyle anlattı.
 
