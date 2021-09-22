@@ -5,10 +5,13 @@ categories: [ Haberler ]
 authors: ["mustafa-armagan"]
 image: assets/images/posts/humayunda-bulusuyoruz.jpg
 featured: true
+# For adding excerpt add <!--more--> and break the line
 ---
 Tarihle öldürebilirsiniz bir halkı, tarihle diriltebilirsiniz. Tarihi anlatma şekliniz, nasıl bir vatandaş istediğinizi, halka nasıl bir kimlik aşılamak için çırpındığınızı gösterir.
 
-Türkiye fizikî olarak sömürgeleştirilmedi ama bir kısım aydınının kafası maalesef sömürgeleştirildi. Bu yüzden okullarında âdeta bir sömürge tarihi okutuldu. Kendi geçmiş ve medeniyetinden utanan, hatta ecdadına hınç duyan, zihnini Batı’ya kiralamış, bir yeniçeri sürüsü Türkiye’de bu aydınlar. Tarih de bu geçmişi silmenin en emin yolu oldu. “Osmanlı Anadolu’ya çivi çakmamıştı.” veya “Tarihimizde buluş yapan bilim adamı çıkmamış.” tarzındaki ucuz hükümler bu ihanetin sefil birer tecellisi.
+Türkiye fizikî olarak sömürgeleştirilmedi ama bir kısım aydınının kafası maalesef sömürgeleştirildi. Bu yüzden okullarında âdeta bir sömürge tarihi okutuldu.
+<!--more--> 
+ Kendi geçmiş ve medeniyetinden utanan, hatta ecdadına hınç duyan, zihnini Batı’ya kiralamış, bir yeniçeri sürüsü Türkiye’de bu aydınlar. Tarih de bu geçmişi silmenin en emin yolu oldu. “Osmanlı Anadolu’ya çivi çakmamıştı.” veya “Tarihimizde buluş yapan bilim adamı çıkmamış.” tarzındaki ucuz hükümler bu ihanetin sefil birer tecellisi.
 
 Oysa tarihi nasıl okuttuğunuza bağlı olarak bir halkı köleleştirebileceğiniz gibi özgürleştirebilirsiniz de. Türkiye’de aydın ihaneti, tarihe ihanetle taçlandı. Ecdadını kötüleyen çocuklara “üvey baba tarihi”ni okutacaklardı. Ama artık evin öz oğlu vatanına dönüyor ve hayır diyor, bu tarih de sahte, bu kahramanlar da. Siz kenara çekilin biraz. Biz öz babasının hikâyesini anlatacağız.
 Türkiye sömürge imalatı tarihten kurtulup öz tarihine uyanırken aslî kimliğini yeniden hatırlıyor, hatırladıkça kendine geliyor, şahsiyetini yeniden buluyor.
