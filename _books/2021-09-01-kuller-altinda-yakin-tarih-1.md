@@ -16,6 +16,7 @@ page: 296
 size: "13,5x21cm"
 publish-number: 5
 cover: "Karton Kapak"
+youtube: "https://www.youtube.com/watch?v=2M9nVZUl_Yo"
 
 # Buyout Ecommerce
 dnr: "https://www.dr.com.tr/kitap/kuller-altinda-yakin-tarih-1-vahdettinden-mustafa-kemale-unutulan-gercekler/mustafa-armagan/arastirma-tarih/tarih/ataturk/urunno=0001938796001"

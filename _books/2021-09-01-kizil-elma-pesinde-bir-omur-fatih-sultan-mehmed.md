@@ -16,6 +16,7 @@ page: 256
 size: "13,5x21cm"
 publish-number: 4
 cover: "Karton Kapak"
+youtube: "https://www.youtube.com/watch?v=LAqa8b5VL-M"
 
 # Buyout Ecommerce
 dnr: "https://www.dr.com.tr/kitap/fatih-sultan-mehmed-kizil-elma-pesinde-bir-omur/mustafa-armagan/arastirma-tarih/tarih/osmanli-tarihi/urunno=0001938800001"

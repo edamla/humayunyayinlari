@@ -16,6 +16,7 @@ page: 288
 size: "13,5x21cm"
 publish-number: 1
 cover: "Karton Kapak"
+youtube: "https://www.youtube.com/watch?v=YLMXv9rvVbM"
 
 # Buyout Ecommerce
 dnr: "https://www.dr.com.tr/kitap/ezan-sehidi-menderes/mustafa-armagan/arastirma-tarih/tarih/dunya-tarihi/urunno=0001938798001"
