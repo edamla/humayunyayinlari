@@ -23,7 +23,7 @@ Cagaloglu - Fatih, 34110 İstanbul</div>
 </div>
 
 <hr>
-<form action="https://formspree.io/{{site.email}}" method="POST">    
+<form action="https://formspree.io/f/xvodldww" method="POST">    
 <p class="mb-4">Lüften mesajlarınızı bize yazın. En kısa sürede size geri dönüş sağlayacağız!</p>
 <div class="form-group row">
 <div class="col-md-6">
