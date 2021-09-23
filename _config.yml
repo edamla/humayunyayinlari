@@ -133,6 +133,7 @@ collections:
   books:
     output: true
     permalink: /kitaplar/:title
+    sort_by: publish-number
   authors:
     output: true
     permalink: /yazarlar/:title
