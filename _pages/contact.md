@@ -1,6 +1,6 @@
 ---
 title: "İletişim"
-permalink: "/iletisim.html"
+permalink: "/iletisim"
 comments: false
 ---
 
