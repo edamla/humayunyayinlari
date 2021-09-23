@@ -100,6 +100,14 @@ defaults:
 markdown: kramdown
 highlighter: rouge
 
+# XML feed
+feed:
+  collections:
+    books:
+      path: "/kitaplar/feed.xml"
+    authors:
+      path: "/yazarlar/feed.xml"
+
 # excerpt
 excerpt_separator: <!--more-->
 

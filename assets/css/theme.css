@@ -844,3 +844,7 @@ div.a2a_full_footer {display:none;}
 .nav-link {
     font-weight: bold;
 }
+
+.slider-image {
+	max-height: 30vh;
+}
