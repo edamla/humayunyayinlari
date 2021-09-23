@@ -6,13 +6,14 @@
         "alt": "slide1",
         "href": "https://www.youtube.com/watch?v=CuIoo1iGOts",
         "target": "_blank"
-        }, {
-        "img": "assets/images/slides/2.jpg",
-        "mobile-img": "assets/images/slides/2m.jpg",
+        },{
+        "img": "assets/images/slides/6.jpg",
+        "mobile-img": "assets/images/slides/6m.jpg",
         "alt": "slide2",
-        "href": "/kitaplar/abdulhamidin-kurtlarla-dansi-1",
+        "href": "/kitaplar/ezan-sehidi-menderes",
         "target": ""
-        }, {
+        }
+        ,{
         "img": "assets/images/slides/3.jpg",
         "mobile-img": "assets/images/slides/3m.jpg",
         "alt": "slide3",
@@ -31,10 +32,10 @@
         "href": "/kitaplar/kuller-altinda-yakin-tarih-1",
         "target": ""
         },{
-        "img": "assets/images/slides/6.jpg",
-        "mobile-img": "assets/images/slides/6m.jpg",
+        "img": "assets/images/slides/2.jpg",
+        "mobile-img": "assets/images/slides/2m.jpg",
         "alt": "slide6",
-        "href": "/kitaplar/ezan-sehidi-menderes",
+        "href": "/kitaplar/abdulhamidin-kurtlarla-dansi-1",
         "target": ""
         }
     ]
