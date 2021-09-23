@@ -68,30 +68,35 @@ defaults:
 
   # all books
   - scope:
+      type: "books"
       path: "_books"
     values:
       layout: book
 
   # all authors
   - scope:
+      type: "authors"
       path: "_authors"
     values:
       layout: author
 
   # all persons
   - scope:
+      type: "persons"
       path: "_persons"
     values:
       layout: person
 
   # all illustrators
   - scope:
+      type: "illustrators"
       path: "_illustrators"
     values:
       layout: illustrator
 
   # all translators
   - scope:
+      type: "translators"
       path: "_translators"
     values:
       layout: translator
