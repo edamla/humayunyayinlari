@@ -14,7 +14,7 @@ ean: 9786057410764
 languages: ["Türkçe"]
 page: #296
 size: "13,5x21cm"
-publish-number: 11
+publish-number: 10
 cover: "Karton Kapak"
 
 # Buyout Ecommerce
