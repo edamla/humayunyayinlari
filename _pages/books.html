@@ -8,7 +8,7 @@ permalink: "/kitaplar"
 <h4 class="font-weight-bold spanborder"><span>{{page.title}}</span></h4>
     <div class="row gap-y listrecent listrecent listauthor">
     {% assign books = site.books | sort: "publish-number" %}
-    {% for book in site.books %}
+    {% for book in books %}
         <div class="col-lg-6 mb-4">
             <a href="{{ book.url }}">
             <div class="p-4 border rounded">
