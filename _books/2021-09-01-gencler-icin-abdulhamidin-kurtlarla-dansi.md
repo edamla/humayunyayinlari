@@ -1,6 +1,6 @@
 ---
 layout: book
-title:  "GENÇLER İÇİN ABDÜLHAMİD’İN KURTLARLA DANSI"
+title:  "Gençler İçin Abdülhamid’in Kurtlarla Dansı"
 authors: ["mustafa-armagan"]
 illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]

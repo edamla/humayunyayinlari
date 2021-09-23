@@ -1,6 +1,6 @@
 ---
 layout: book
-title:  "OSMANLI TARİHİNDE MASKELER VE YÜZLER"
+title:  "Osmanlı Tarihinde Maskeler ve Yüzler"
 authors: ["mustafa-armagan"]
 illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]

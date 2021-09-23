@@ -1,6 +1,6 @@
 ---
 layout: book
-title:  "KIR ZİNCİRLERİNİ OSMANLI"
+title:  "Kır Zincirlerini Osmanlı"
 authors: ["mustafa-armagan"]
 illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]

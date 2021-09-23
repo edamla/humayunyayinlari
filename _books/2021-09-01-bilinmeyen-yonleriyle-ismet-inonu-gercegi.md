@@ -1,6 +1,6 @@
 ---
 layout: book
-title:  "BİLİNMEYEN YÖNLERİYLE İSMET İNÖNÜ GERÇEĞİ"
+title:  "Bilinmeyen Yönleriyle İsmet İnönü Gerçeği"
 authors: ["mustafa-armagan"]
 illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]

@@ -1,6 +1,6 @@
 ---
 layout: book
-title:  "SATILIK İMPARATORLUK"
+title:  "Satılık İmparatorluk"
 authors: ["mustafa-armagan"]
 illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]

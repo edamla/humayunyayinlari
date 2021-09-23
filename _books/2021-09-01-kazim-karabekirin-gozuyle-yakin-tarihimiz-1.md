@@ -1,6 +1,6 @@
 ---
 layout: book
-title:  "KÂZIM KARABEKİR’İN GÖZÜYLE YAKIN TARİHİMİZ 1"
+title:  "Kâzım Karabekir’in Gözüyle Yakın Tarihimiz 1"
 authors: ["mustafa-armagan"]
 illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]
