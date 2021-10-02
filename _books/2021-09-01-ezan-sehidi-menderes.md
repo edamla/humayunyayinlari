@@ -21,7 +21,7 @@ youtube: "https://www.youtube.com/watch?v=YLMXv9rvVbM"
 # Buyout Ecommerce
 dnr: "https://www.dr.com.tr/kitap/ezan-sehidi-menderes/mustafa-armagan/arastirma-tarih/tarih/dunya-tarihi/urunno=0001938798001"
 kitapyurdu: #"https://www.kitapyurdu.com"
-idefix: #"https://www.idefix.com"
+idefix: "https://www.idefix.com/Kitap/Ezan-Sehidi-Menderes/Mustafa-Armagan/Arastirma-Tarih/Tarih/Dunya-Tarihi/urunno=0001938798001"
 hepsiburada: #"https://www.hepsiburada.com"
 odatvkitap: #"https://www.odatvkitap.com.tr"
 bkmkitap: #"https://www.bkmkitap.com.tr"

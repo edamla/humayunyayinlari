@@ -21,7 +21,7 @@ youtube: "https://www.youtube.com/watch?v=83QiO08aEbg"
 # Buyout Ecommerce
 dnr: "https://www.dr.com.tr/kitap/kir-zincirlerini-osmanli/mustafa-armagan/arastirma-tarih/tarih/osmanli-tarihi/urunno=0001938797001"
 kitapyurdu: #"https://www.kitapyurdu.com"
-idefix: #"https://www.idefix.com"
+idefix: "https://www.idefix.com/Kitap/Kir-Zincirlerini-Osmanli/Mustafa-Armagan/Arastirma-Tarih/Tarih/Osmanli-Tarihi/urunno=0001938797001"
 hepsiburada: #"https://www.hepsiburada.com"
 odatvkitap: #"https://www.odatvkitap.com.tr"
 bkmkitap: #"https://www.bkmkitap.com.tr"

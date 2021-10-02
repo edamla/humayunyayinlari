@@ -21,7 +21,7 @@ youtube: "https://www.youtube.com/watch?v=LAqa8b5VL-M"
 # Buyout Ecommerce
 dnr: "https://www.dr.com.tr/kitap/fatih-sultan-mehmed-kizil-elma-pesinde-bir-omur/mustafa-armagan/arastirma-tarih/tarih/osmanli-tarihi/urunno=0001938800001"
 kitapyurdu: #"https://www.kitapyurdu.com"
-idefix: #"https://www.idefix.com"
+idefix: "https://www.idefix.com/Kitap/Fatih-Sultan-Mehmed-Kizil-Elma-Pesinde-Bir-Omur/Mustafa-Armagan/Arastirma-Tarih/Tarih/Osmanli-Tarihi/urunno=0001938800001"
 hepsiburada: #"https://www.hepsiburada.com"
 odatvkitap: #"https://www.odatvkitap.com.tr"
 bkmkitap: #"https://www.bkmkitap.com.tr"
