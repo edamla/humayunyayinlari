@@ -39,6 +39,8 @@ buyout:
   bkmkitap: true
   amazontr: true
   dkitap: true
+  trendyol: true
+  gittigidiyor: true
 
 # Plugins
 plugins: 

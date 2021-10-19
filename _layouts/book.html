@@ -208,6 +208,22 @@ layout: default
 				</li>
 				{%endif %}
 
+				{%if site.buyout.trendyol == true and book.trendyol %}
+				<li class="list-inline-item">
+					<a href="{{book.trendyol}}" target="_blank" title="Trendyol">
+						<img class="img-fluid" src="{{ site.baseurl }}/assets/images/trendyol.svg" alt="Trendyol Satış">
+					</a>
+				</li>
+				{%endif %}
+
+				{%if site.buyout.gittigidiyor == true and book.gittigidiyor %}
+				<li class="list-inline-item">
+					<a href="{{book.gittigidiyor}}" target="_blank" title="Trendyol">
+						<img class="img-fluid" src="{{ site.baseurl }}/assets/images/gittigidiyor.svg" alt="Gittigidiyor Satış">
+					</a>
+				</li>
+				{%endif %}
+
 				{%if site.buyout.odatvkitap == true and book.odatvkitap %}
 				<li class="list-inline-item">
 					<a href="{{book.odatvkitap}}" target="_blank" title="Oda Kitap">
