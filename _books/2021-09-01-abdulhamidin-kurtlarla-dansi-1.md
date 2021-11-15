@@ -20,7 +20,7 @@ youtube: "https://www.youtube.com/watch?v=-_byyIDFln4"
 
 # Buyout Ecommerce
 dnr: "https://www.dr.com.tr/kitap/abdulhamidin-kurtlarla-dansi-1/mustafa-armagan/arastirma-tarih/tarih/osmanli-tarihi/urunno=0001938799001"
-kitapyurdu: #"https://www.kitapyurdu.com"
+kitapyurdu: "https://www.kitapyurdu.com/kitap/abdulhamidin-kurtlarla-dansi-1/599382.html"
 idefix: "https://www.idefix.com/Kitap/Abdulhamidin-Kurtlarla-Dansi-1/Mustafa-Armagan/Arastirma-Tarih/Tarih/Osmanli-Tarihi/urunno=0001938799001"
 hepsiburada: #"https://www.hepsiburada.com"
 trendyol: "https://www.trendyol.com/humayun-yayinlari/abdulhamid-in-kurtlarla-dansi-1-p-156300963"
