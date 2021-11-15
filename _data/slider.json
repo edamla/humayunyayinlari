@@ -7,15 +7,22 @@
             "target": "_blank"
         },
         {
+            "img": "assets/images/slides/7.jpg",
+            "mobile-img": "assets/images/slides/7m.jpg",
+            "alt": "slide7",
+            "href": "/kitaplar/icimize-acilan-kapilar",
+            "target": ""
+        },
+        {
             "img": "assets/images/slides/8.jpg",
             "mobile-img": "assets/images/slides/8m.jpg",
-            "alt": "slide6",
+            "alt": "slide8",
             "href": "/kitaplar/osmanli-tarihinde-maskeler-ve-yuzler",
             "target": ""
         }, {
             "img": "assets/images/slides/10.jpg",
             "mobile-img": "assets/images/slides/10m.jpg",
-            "alt": "slide6",
+            "alt": "slide10",
             "href": "/kitaplar/satilik-imparatorluk",
             "target": ""
         }, {
