@@ -8,6 +8,7 @@ image: assets/images/ean/9786057407917.jpg
 categories: [ "Tarih", "Osmanlı" ]
 tags: [ "Şehir", "Medeniyet"]
 previewpage: false
+published: false
 
 # Book attributes
 ean: 9786057407917

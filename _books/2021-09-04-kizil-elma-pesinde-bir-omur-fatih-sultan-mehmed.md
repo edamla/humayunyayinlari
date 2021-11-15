@@ -8,6 +8,7 @@ image: assets/images/ean/9786057410719.jpg
 categories: [ "Tarih", "Osmanlı" ]
 tags: [ "Osmanlı Tarihi", "Fatih Sultan Mehmet"]
 previewpage: true
+published: true
 
 # Book attributes
 ean: 9786057410719

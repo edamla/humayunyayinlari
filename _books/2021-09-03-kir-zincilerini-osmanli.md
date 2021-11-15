@@ -8,6 +8,7 @@ image: assets/images/ean/9786057410726.jpg
 categories: [ "Tarih", "Osmanlı" ]
 tags: [ "Osmanlı Tarihi"]
 previewpage: true
+published: true
 
 # Book attributes
 ean: 9786057410726

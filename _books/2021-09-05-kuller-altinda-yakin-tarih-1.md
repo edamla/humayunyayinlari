@@ -8,6 +8,7 @@ image: assets/images/ean/9786057410702.jpg
 categories: [ "Tarih", "Osmanlı" ]
 tags: [ "Yakın Tarih", "Sultan Vahdettin", "Mustafa Kemal"]
 previewpage: true
+published: true
 
 # Book attributes
 ean: 9786057410702

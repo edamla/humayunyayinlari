@@ -8,7 +8,7 @@ image: assets/images/ean/9786057407900.jpg
 categories: [ "Tarih", "Osmanlı" ]
 tags: [ "Yakın Tarih"]
 previewpage: false
-published: false
+published: true
 
 # Book attributes
 ean: 9786057407900

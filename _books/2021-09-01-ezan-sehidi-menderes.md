@@ -8,6 +8,7 @@ image: assets/images/ean/9786057410740.jpg
 categories: [ "Tarih" ]
 tags: [ "Yakın Tarih"]
 previewpage: true
+published: true
 
 # Book attributes
 ean: 9786057410740

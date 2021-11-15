@@ -8,6 +8,7 @@ image: assets/images/ean/9786057410733.jpg
 categories: [ "Tarih", "Osmanlı" ]
 tags: [ "Osmanlı Tarihi", "Sultan Abdülhamid"]
 previewpage: true
+published: true
 
 # Book attributes
 ean: 9786057410733
