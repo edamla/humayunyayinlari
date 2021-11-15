@@ -8,7 +8,7 @@ image: assets/images/ean/9786057407917.jpg
 categories: [ "Tarih", "Osmanlı" ]
 tags: [ "Şehir", "Medeniyet"]
 previewpage: false
-published: false
+published: true
 
 # Book attributes
 ean: 9786057407917
@@ -29,7 +29,7 @@ odatvkitap: #"https://www.odatvkitap.com.tr"
 bkmkitap: #"https://www.bkmkitap.com.tr"
 amazontr: #"https://www.amazon.com.tr"
 dkitap: #"https://www.dkitap.com.tr"
-damlayayinevi: #"https://www.damlayayinevi.com.tr"
+damlayayinevi: "https://www.damlayayinevi.com.tr/icimize-acilan-kapilar"
 
 # For adding excerpt add <!--more--> and break the line
 ---
