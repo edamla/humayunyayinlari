@@ -868,8 +868,8 @@ div.a2a_full_footer {display:none;}
 	position: relative;
     content: 'Çok Yakında!';
 	color: white;
-	top: 3vh;
-	left:1vh;
+	top: 2.7vh;
+	left:0.8vh;
 	font-size:1.1rem;
 	font-weight:bold;
 	transform: rotate(325deg);
