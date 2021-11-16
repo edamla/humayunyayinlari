@@ -29,7 +29,7 @@ odatvkitap: #"https://www.odatvkitap.com.tr"
 bkmkitap: #"https://www.bkmkitap.com.tr"
 amazontr: #"https://www.amazon.com.tr"
 dkitap: #"https://www.dkitap.com.tr"
-damlayayinevi: #"https://www.damlayayinevi.com.tr"
+damlayayinevi: "https://www.damlayayinevi.com.tr/osmanli-tarihinde-maskeler-ve-yuzler"
 
 # For adding excerpt add <!--more--> and break the line
 ---
