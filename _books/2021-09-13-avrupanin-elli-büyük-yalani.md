@@ -8,7 +8,7 @@ image: assets/images/ean/9786057407924.jpg
 categories: [ "Tarih", "Avrupa" ]
 tags: [ "Yakın Tarih"]
 previewpage: false
-published: false
+published: true
 
 # Book attributes
 ean: 9786057407924

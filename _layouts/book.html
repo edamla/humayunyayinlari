@@ -47,7 +47,10 @@ layout: default
 						<div class="mb-4">
 							<span class="taglist">
 							{% for tag in page.tags %}
-							<a class="sscroll btn btn-light btn-sm font-weight-bold" href="{{site.baseurl}}/etiketler.html#{{ tag | downcase }}">#{{ tag | downcase }}</a>
+							<div class="sscroll btn btn-light btn-sm font-weight-bold">
+								#{{ tag | downcase }}
+							</div>
+							<!-- <a class="sscroll btn btn-light btn-sm font-weight-bold" href="{{site.baseurl}}/etiketler.html#{{ tag | downcase }}">#{{ tag | downcase }}</a> -->
 							{% endfor %}
 							</span>
 						</div>
