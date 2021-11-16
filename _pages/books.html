@@ -13,7 +13,12 @@ permalink: "/kitaplar"
             <a href="{{ book.url }}">
             <div class="p-4 border rounded">
             <div class="row">
-            <div class="col-md-6 mb-6 mb-md-0"><img alt="{{ book.name }}" src="{{site.baseurl}}/{{ book.image }}" class="rounded" height="auto" width="100%"></div>
+            <div class="col-md-6 mb-6 mb-md-0">
+                <img alt="{{ book.name }}" src="{{site.baseurl}}/{{ book.image }}" class="rounded" height="auto" width="100%">
+                {% if book.verysoon %}
+                <span class="verysoon"></span>
+                {% endif %}
+            </div>
             <div class="col-md-6">
             <h4 class="text-dark mb-0"> {{ book.title }} </h4>
             {% for bookauthor in book.authors %}

@@ -848,3 +848,31 @@ div.a2a_full_footer {display:none;}
 .slider-image {
 	max-height: 30vh;
 }
+
+.verysoon {
+    position: absolute;
+    top: 0px;
+	left: 0px;
+    min-width: 20vh;
+    min-height: 20vh;
+    filter: drop-shadow(2px 4px 6px black);
+    background-image: url(/assets/images/k1.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-left: 15px;
+	opacity: 0.8;
+}
+
+.verysoon:before {
+	display: inline-block;
+	position: relative;
+    content: 'Çok Yakında!';
+	color: white;
+	top: 3vh;
+	left:1vh;
+	font-size:1.1rem;
+	font-weight:bold;
+	transform: rotate(325deg);
+	margin: 0px;
+	padding: 0px;
+}

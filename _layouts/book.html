@@ -12,6 +12,9 @@ layout: default
 				{% if book.image %}
 				<div class="col-md-3 pr-2 align-self-center book">
 					<img class="rounded" src="{% if book.image contains "://" %}{{ book.image }}{% else %}{{ site.baseurl }}/{{ book.image }}{% endif %}" alt="{{ page.title }}">
+					{% if book.verysoon %}
+					<span class="label label-primary verysoon"></span>
+					{% endif %}
 				</div>
                 {% endif %}
 

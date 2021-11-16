@@ -17,6 +17,7 @@ page: #296
 size: "13,5x21cm"
 publish-number: 6
 cover: "Karton Kapak"
+verysoon: false # Yakında Çıkacaksa Henüz basılmadıysa
 
 # Buyout Ecommerce
 dnr: #"https://www.dnr.com.tr"

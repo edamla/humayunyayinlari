@@ -18,6 +18,7 @@ size: "13,5x21cm"
 publish-number: 2
 cover: "Karton Kapak"
 youtube: "https://www.youtube.com/watch?v=-_byyIDFln4"
+verysoon: false # Yakında Çıkacaksa Henüz basılmadıysa
 
 # Buyout Ecommerce
 dnr: "https://www.dr.com.tr/kitap/abdulhamidin-kurtlarla-dansi-1/mustafa-armagan/arastirma-tarih/tarih/osmanli-tarihi/urunno=0001938799001"

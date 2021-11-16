@@ -18,6 +18,7 @@ size: "13,5x21cm"
 publish-number: 3
 cover: "Karton Kapak"
 youtube: "https://www.youtube.com/watch?v=83QiO08aEbg"
+verysoon: false # Yakında Çıkacaksa Henüz basılmadıysa
 
 # Buyout Ecommerce
 dnr: "https://www.dr.com.tr/kitap/kir-zincirlerini-osmanli/mustafa-armagan/arastirma-tarih/tarih/osmanli-tarihi/urunno=0001938797001"
