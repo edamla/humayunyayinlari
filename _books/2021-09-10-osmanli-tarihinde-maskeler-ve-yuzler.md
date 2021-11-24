@@ -20,7 +20,7 @@ cover: "Karton Kapak"
 
 # Buyout Ecommerce
 dnr: #"https://www.dnr.com.tr"
-kitapyurdu: #"https://www.kitapyurdu.com"
+kitapyurdu: "https://www.kitapyurdu.com/kitap/osmanli-tarihinde-maskeler-ve-yuzler/600133.html&filter_name=Osmanl%C4%B1+Tarihinde+Maskeler+ve+Y%C3%BCzler"
 idefix: #"https://www.idefix.com"
 hepsiburada: #"https://www.hepsiburada.com"
 trendyol: #"https://www.trendyol.com"
