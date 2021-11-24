@@ -34,8 +34,9 @@ damlayayinevi: "https://www.damlayayinevi.com.tr/osmanli-tarihinde-maskeler-ve-y
 # For adding excerpt add <!--more--> and break the line
 ---
 **Osmanlı Tarihinde Maskeler ve Yüzler**, tarihin bilimsellikten taviz vermeden de geniş kitlelere sevdirilebileceğini gösteren öncü bir çalışma...
-Mustafa Armağan, İnkılap Tarihi’nin hesabı verilmemiş dosyalarından birini daha açıyor. Karşınızda “Tek Adam”ın “İkinci Adam”ı İnönü’nün gerçek yüzü.
-“Öyle yazmış bir okuyucu: ‘Bu kitapta bakalım başımıza hangi çatıyı yıkacaksınız? Çatılar bu denli çürük yapılmışsa kabahat kitaplarımın içine gizlenen yaramaz filin olamaz herhalde. Başımızın üstündeki çatıyı kimin çattığını ve nasıl çattığını bilmiyorsak fil ne yapsın”
+"Öyle yazmış bir okuyucu: 'Bu kitapta bakalım başımıza hangi çatıyı yıkacaksınız?'
+Çatılar bu denli çürük yapılmışsa kabahat, kitaplarımın içine gizlenen yaramaz filin olamaz herhâlde.
+Başımızın üstündeki çatıyı kimin çattığını ve nasıl çattığını bilmiyorsak fil ne yapsın?"
 <!--more--> 
 Bir süredir çıktığı her tarih seferinden göz kamaştırıcı ganimetlerle dönmeyi bilen Mustafa Armağan, Osmanlı Tarihinde Maskeler ve Yüzler adlı tartışmalara yol açacak kitabında, okuyucusunu tarihin labirentlerinde nefes nefese bir serüvene davet ediyor.
 

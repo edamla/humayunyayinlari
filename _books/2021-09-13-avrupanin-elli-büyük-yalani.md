@@ -17,7 +17,7 @@ page: 344
 size: "13,5x21cm"
 publish-number: 13
 cover: "Karton Kapak"
-verysoon: true
+verysoon: false
 
 # Buyout Ecommerce
 dnr: #"https://www.dnr.com.tr"
