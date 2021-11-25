@@ -63,10 +63,7 @@
     <!-- Navbar -->
     <nav id="MagicMenu" class="topnav navbar navbar-expand-lg navbar-light bg-white fixed-top">
     <div class="container">
-        <a class="navbar-brand" href="{{ site.baseurl }}/index.html"><strong><img src="{{site.baseurl}}/assets/images/logo.png" alt="{{site.name}}" style="max-height: 80px;"></strong></a>
-        <ul class="navbar-nav justify-content-betwween d-flex d-md-none flex-row">
-            {% include menu-socialmedia.html %}
-        </ul>
+        <a class="navbar-brand" href="{{ site.baseurl }}/index.html"><strong><img src="{{site.baseurl}}/assets/images/logo.png" alt="{{site.name}}" style="max-height: 6vh;"></strong></a>
         <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
         </button>
@@ -74,7 +71,10 @@
             <ul class="navbar-nav mr-auto d-flex align-items-center">
                {% include menu-header.html %}
             </ul>
-            <ul class="navbar-nav justify-content-end d-none d-md-flex">
+            <ul class="navbar-nav d-md-flex d-none flex-row" style="justify-content: center;">
+                {% include menu-socialmedia.html %}
+            </ul>
+            <ul class="navbar-nav justify-content-center d-md-none d-flex flex-row mobil">
                 {% include menu-socialmedia.html %}
             </ul>
             <ul class="navbar-nav ml-auto d-flex align-items-center">
