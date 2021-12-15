@@ -9,7 +9,7 @@ featured: true
 # For adding excerpt add <!--more--> and break the line
 ---
 Mustafa Armağan’ın yakın tarihle ilgili söyleşisi ikinci Bursa Kitap Fuarı'nda gerçekleşti.
-Okuyucuların yoğun ilgisi ile gerçekleşen söyleşi Hudavendigar Salonunda 11 Aralık cumartesi günü saat 14:00’te gerçekleşti.
+Okuyucuların yoğun ilgisi ile gerçekleşen söyleşi Hudavendigar Salonunda 11 Aralık Cumartesi günü saat 14:00’te gerçekleşti.
 Daha sonra Hümayun Yayinlari standında okuyucularına kitaplarını imzaladı.
 
 <img src="/assets/images/posts/mustafa-armagan-bursa-fuar-soylesi-1.jpg" style="">
