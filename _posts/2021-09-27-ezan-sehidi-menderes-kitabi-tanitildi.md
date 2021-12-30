@@ -12,4 +12,4 @@ Mustafa Armağan'ın yeni kitabı "EZAN ŞEHİDİ MENDERES" Eylül ayında okurl
 
 Akit Tv'de yayınlanan Kayıt Dışı Tarih isimli programa konuk olarak katılan Armağan, o dönemi anlattı. Programda Adnan Menderes, Hasan Polatkan ve Fatin Rüştü Zorlu yad edildi.
 
-<iframe src="https://www.youtube.com/embed/QNQIJqVjfbM?rel=0&amp;enablejsapi=1&amp;wmode=opaque" width="360" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://www.youtube.com/embed/QNQIJqVjfbM?rel=0&amp;enablejsapi=1&amp;wmode=opaque" width="90%" height="360px" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
