@@ -13,34 +13,34 @@ Değerli yazarımız Mustafa Armağan, Denizli’de Vildan Koleji’nde öğrenc
 <div class="container">
   <div class="row">
     <div class="col-sm">
-     <img style="height: 40vh;" src="/assets/images/posts/mustafa-armagan-denizlide-okuyuculariyle-bulustu-8.jpg" alt="">
+     <img src="/assets/images/posts/mustafa-armagan-denizlide-okuyuculariyle-bulustu-8.jpg" alt="">
     </div>
     <div class="col-sm">
-      <img style="height: 40vh;" src="/assets/images/posts/mustafa-armagan-denizlide-okuyuculariyle-bulustu-2.jpg" alt="">
+      <img src="/assets/images/posts/mustafa-armagan-denizlide-okuyuculariyle-bulustu-2.jpg" alt="">
     </div>
     <div class="col-sm">
-      <img style="height: 40vh;" src="/assets/images/posts/mustafa-armagan-denizlide-okuyuculariyle-bulustu-3.jpg" alt="">
+      <img src="/assets/images/posts/mustafa-armagan-denizlide-okuyuculariyle-bulustu-3.jpg" alt="">
     </div>
   </div>
   <div class="container">
   <div class="row">
     <div class="col-sm">
-      <img style="height: 40vh;" src="/assets/images/posts/mustafa-armagan-denizlide-okuyuculariyle-bulustu-4.jpg" alt="">
+      <img src="/assets/images/posts/mustafa-armagan-denizlide-okuyuculariyle-bulustu-4.jpg" alt="">
     </div>
     <div class="col-sm">
-      <img style="height: 40vh;" src="/assets/images/posts/mustafa-armagan-denizlide-okuyuculariyle-bulustu-5.jpg" alt="">
+      <img src="/assets/images/posts/mustafa-armagan-denizlide-okuyuculariyle-bulustu-5.jpg" alt="">
     </div>
     <div class="col-sm">
-      <img style="height: 40vh;" src="/assets/images/posts/mustafa-armagan-denizlide-okuyuculariyle-bulustu-6.jpg" alt="">
+      <img src="/assets/images/posts/mustafa-armagan-denizlide-okuyuculariyle-bulustu-6.jpg" alt="">
     </div>
     </div>
     <div class="container">
   <div class="row">
     <div class="col-sm">
-      <img style="height: 40vh;" src="/assets/images/posts/mustafa-armagan-denizlide-okuyuculariyle-bulustu-7.jpg" alt="">
+      <img src="/assets/images/posts/mustafa-armagan-denizlide-okuyuculariyle-bulustu-7.jpg" alt="">
     </div>
     <div class="col-sm">
-      <img style="height: 40vh;" src="/assets/images/posts/mustafa-armagan-denizlide-okuyuculariyle-bulustu-1.jpg" alt="">
+      <img src="/assets/images/posts/mustafa-armagan-denizlide-okuyuculariyle-bulustu-1.jpg" alt="">
     </div>
 </div>
   </div>
