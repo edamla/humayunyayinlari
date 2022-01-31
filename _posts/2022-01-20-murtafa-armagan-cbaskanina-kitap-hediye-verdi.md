@@ -8,4 +8,4 @@ tags: [Mustafa Armağan, Ezan Şehidi Menderes,Cumhurbaşkanı]
 featured: true
 # For adding excerpt add <!--more--> and break the line
 ---
-Degerli yazarımız Mustafa Armağan, Aydin Adnan Menderes Müzesi açılışında Humayun Yayınları’ndan çıkan yeni kitabi EZAN ŞEHİDİ MENDERES’i sayın Cumhurbaşkanımıza takdim etti. 15.01.2022
+Değerli yazarımız Mustafa Armağan, Aydin Adnan Menderes Müzesi açılışında Humayun Yayınları’ndan çıkan yeni kitabi EZAN ŞEHİDİ MENDERES’i sayın Cumhurbaşkanımıza takdim etti. 15.01.2022
