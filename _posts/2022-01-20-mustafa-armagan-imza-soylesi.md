@@ -9,3 +9,4 @@ featured: true
 # For adding excerpt add <!--more--> and break the line
 ---
 Değerli yazarımız Mustafa Armağan, 5 Şubat 2022 Cumartesi günü saat:14.00’te okurlarıyla buluşacak. “Tarih Atölyesi Söyleşisi”nde Hümayun Yayınları’ndan çıkan Abdülhamid’in Kurtlarla Dansı-1 kitabı ile ilgili bir söyleşi gerçekleştirecek olan yazarımız, ardından imza etkinliğiyle programını tamamlayacaktır.
+**Adres** İstanbul Caddesi No:323/C (METRO AVM) Fatih / Osmangazi / Bursa
