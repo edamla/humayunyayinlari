@@ -17,12 +17,12 @@ page: 344
 size: "13,5x21cm"
 publish-number: 14
 cover: "Karton Kapak"
-verysoon: true
+verysoon: false
 
 # Buyout Ecommerce
-dnr: #"https://www.dnr.com.tr"
-kitapyurdu: #"https://www.kitapyurdu.com"
-idefix: #"https://www.idefix.com"
+dnr: "https://www.dr.com.tr/kitap/buyuk-osmanli-projesi/arastirma-tarih/tarih/osmanli-tarihi/urunno=0001962691001"
+kitapyurdu: "https://www.kitapyurdu.com/kitap/buyuk-osmanli-projesi/607781.html&filter_name=B%C3%BCy%C3%BCk+Osmanl%C4%B1+Projesi"
+idefix: "https://www.idefix.com/kitap/buyuk-osmanli-projesi/arastirma-tarih/tarih/osmanli-tarihi/urunno=0001962691001"
 hepsiburada: #"https://www.hepsiburada.com"
 trendyol: #"https://www.trendyol.com"
 gittigidiyor: #"https://www.gittigidiyor.com/kitap-dergi/ezan-sehidi-adnan-menderes_pdp_732728793"
@@ -30,7 +30,7 @@ odatvkitap: #"https://www.odatvkitap.com.tr"
 bkmkitap: #"https://www.bkmkitap.com.tr"
 amazontr: #"https://www.amazon.com.tr"
 dkitap: #"https://www.dkitap.com.tr"
-damlayayinevi: #"https://www.damlayayinevi.com.tr"
+damlayayinevi: "https://www.damlayayinevi.com.tr/buyuk-osmanli-projesi"
 
 # For adding excerpt add <!--more--> and break the line
 ---

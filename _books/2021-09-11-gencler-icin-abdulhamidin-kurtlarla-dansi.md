@@ -17,13 +17,13 @@ page: #296
 size: "13,5x21cm"
 publish-number: 11
 cover: "Karton Kapak"
-verysoon: true
+verysoon: false
 
 
 # Buyout Ecommerce
-dnr: #"https://www.dnr.com.tr"
-kitapyurdu: #"https://www.kitapyurdu.com"
-idefix: #"https://www.idefix.com"
+dnr: "https://www.dr.com.tr/Kitap/Gencler-icin-Abdulhamidin-Kurtlarla-Dansi/cocuk-ve-Genclik/Genclik-10-Yas/Roman-oyku/urunno=0001962689001"
+kitapyurdu: "https://www.kitapyurdu.com/kitap/gencler-icin-abdulhamidin-kurtlarla-dansi/607780.html&filter_name=Gen%C3%A7ler+i%C3%A7in+Abd%C3%BClhamid%27in+Kurtlarla+Dans%C4%B1"
+idefix: "https://www.idefix.com/kitap/gencler-icin-abdulhamidin-kurtlarla-dansi/cocuk-ve-genclik/genclik-10-yas/roman-oyku/urunno=0001962689001"
 hepsiburada: #"https://www.hepsiburada.com"
 trendyol: #"https://www.trendyol.com"
 gittigidiyor: #"https://www.gittigidiyor.com/kitap-dergi/ezan-sehidi-adnan-menderes_pdp_732728793"
@@ -31,7 +31,7 @@ odatvkitap: #"https://www.odatvkitap.com.tr"
 bkmkitap: #"https://www.bkmkitap.com.tr"
 amazontr: #"https://www.amazon.com.tr"
 dkitap: #"https://www.dkitap.com.tr"
-damlayayinevi: #"https://www.damlayayinevi.com.tr"
+damlayayinevi: "https://www.damlayayinevi.com.tr/gencler-icin-abdulhamidin-kurtlarla-dansi"
 
 # For adding excerpt add <!--more--> and break the line
 ---

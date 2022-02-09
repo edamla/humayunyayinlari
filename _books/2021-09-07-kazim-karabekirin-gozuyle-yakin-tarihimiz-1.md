@@ -17,7 +17,7 @@ page: #296
 size: "13,5x21cm"
 publish-number: 7
 cover: "Karton Kapak"
-verysoon: true
+verysoon: false
 
 
 # Buyout Ecommerce
@@ -31,7 +31,7 @@ odatvkitap: #"https://www.odatvkitap.com.tr"
 bkmkitap: #"https://www.bkmkitap.com.tr"
 amazontr: #"https://www.amazon.com.tr"
 dkitap: #"https://www.dkitap.com.tr"
-damlayayinevi: #"https://www.damlayayinevi.com.tr"
+damlayayinevi: "https://www.damlayayinevi.com.tr/kazim-karabekir-in-gozuyle-yakin-tarihimiz-1"
 
 # For adding excerpt add <!--more--> and break the line
 ---
