@@ -21,9 +21,9 @@ verysoon: false
 
 
 # Buyout Ecommerce
-dnr: #"https://www.dnr.com.tr"
-kitapyurdu: #"https://www.kitapyurdu.com"
-idefix: #"https://www.idefix.com"
+dnr: "https://www.dr.com.tr/kitap/kazim-karabekirin-gozuyle-yakin-tarihimiz-1/arastirma-tarih/tarih/turk-tarihi/urunno=0001962690001"
+kitapyurdu: "https://www.kitapyurdu.com/kitap/kazim-karabekirin-gozuyle-yakin-tarihimiz-1-/607779.html&filter_name=KAZIM+KARABEK%C4%B0R%C4%B0N+G%C3%96Z%C3%9CYLE+YAKIN"
+idefix: "https://www.idefix.com/kitap/kazim-karabekirin-gozuyle-yakin-tarihimiz-1/arastirma-tarih/tarih/turk-tarihi/urunno=0001962690001"
 hepsiburada: #"https://www.hepsiburada.com"
 trendyol: #"https://www.trendyol.com"
 gittigidiyor: #"https://www.gittigidiyor.com/kitap-dergi/ezan-sehidi-adnan-menderes_pdp_732728793"
