@@ -1,5 +1,5 @@
 ---
-order: 11
+order: 9
 title:  "Abdülhamid’in Kurtlarla Dansı- Mustafa Armağan"
 img: "assets/images/slides/9.jpg"
 mobile-img: "assets/images/slides/9m.jpg"
