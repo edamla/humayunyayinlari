@@ -17,7 +17,7 @@ page: #296
 size: "13,5x21cm"
 publish-number: 9
 cover: "Karton Kapak"
-verysoon: true
+verysoon: false
 
 
 # Buyout Ecommerce
