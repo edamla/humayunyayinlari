@@ -1,6 +1,6 @@
 ---
 layout: book
-title:  "Kızıl Elma Peşide Bir Ömür - Fatih Sultan Mehmed"
+title:  "Kızıl Elma Peşinde Bir Ömür - Fatih Sultan Mehmed"
 authors: ["mustafa-armagan"]
 illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]
