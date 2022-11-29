@@ -15,7 +15,7 @@ ean: 9786057407924
 languages: ["Türkçe"]
 page: 344
 size: "13,5x21cm"
-publish-number: 13
+publish-number: 12
 cover: "Karton Kapak"
 verysoon: false
 

@@ -15,7 +15,7 @@ ean: 9786057407955
 languages: ["Türkçe"]
 page: 400
 size: "13,5x21cm"
-publish-number: 16
+publish-number: 15
 cover: "Karton Kapak"
 youtube: #"https://www.youtube.com/watch?v=-_byyIDFln4"
 verysoon: false # Yakında Çıkacaksa Henüz basılmadıysa

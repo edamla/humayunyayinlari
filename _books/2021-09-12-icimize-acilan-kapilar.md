@@ -15,7 +15,7 @@ ean: 9786057407917
 languages: ["Türkçe"]
 page: 192
 size: "13,5x21cm"
-publish-number: 12
+publish-number: 11
 cover: "Karton Kapak"
 
 # Buyout Ecommerce

@@ -15,7 +15,7 @@ ean: 9786057410771
 languages: ["Türkçe"]
 page: #296
 size: "13,5x21cm"
-publish-number: 8
+publish-number: 17
 cover: "Karton Kapak"
 verysoon: false
 
