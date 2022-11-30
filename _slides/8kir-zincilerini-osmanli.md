@@ -1,5 +1,5 @@
 ---
-order: 8
+order: 6
 title:  "Kır Zincirlerini Osmanlı - Mustafa Armağan"
 img: "assets/images/slides/8.jpg"
 mobile-img: "assets/images/slides/8m.jpg"
