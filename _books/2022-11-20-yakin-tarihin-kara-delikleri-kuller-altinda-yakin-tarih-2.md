@@ -21,7 +21,7 @@ verysoon: false
 
 
 # Buyout Ecommerce
-dnr: #"https://www.dnr.com.tr"
+dnr: "https://www.dr.com.tr/kitap/yakin-tarihin-kara-delikleri-kuller-altinda-yakin-tarih-2/arastirma-tarih/tarih/ataturk/urunno=0002023548001"
 kitapyurdu: #"https://www.kitapyurdu.com"
 idefix: #"https://www.idefix.com"
 hepsiburada: #"https://www.hepsiburada.com"
@@ -31,7 +31,7 @@ odatvkitap: #"https://www.odatvkitap.com.tr"
 bkmkitap: #"https://www.bkmkitap.com.tr"
 amazontr: #"https://www.amazon.com.tr"
 dkitap: #"https://www.dkitap.com.tr"
-damlayayinevi: #"https://www.damlayayinevi.com.tr"
+damlayayinevi: "https://www.damlayayinevi.com.tr/yakin-tarihin-kara-delikleri-kuller-altinda-yakin-tarih-2"
 
 # For adding excerpt add <!--more--> and break the line
 ---
